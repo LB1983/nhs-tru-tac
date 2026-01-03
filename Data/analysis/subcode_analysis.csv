@@ -1,0 +1,1206 @@
+SubCode,financial_years,label,primary_worksheet,num_years
+STA0260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Pension cost - other,TAC09 Staff,5
+STA0270,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other post employment benefits,TAC09 Staff,5
+STA0280,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other employment benefits,TAC09 Staff,5
+STA0290,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Termination benefits,TAC09 Staff,5
+STA0300,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Temporary staff - external bank,TAC09 Staff,5
+STA0310,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Temporary staff - agency/contract staff,TAC09 Staff,5
+STA0320,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds staff,TAC09 Staff,5
+STA0330,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",TOTAL GROSS STAFF COSTS,TAC09 Staff,5
+SOC0230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","(i) non-controlling interest, and",TAC02 SoCI,5
+SOC0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",(ii) owners of the parent,TAC02 SoCI,5
+SOC0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",TOTAL,TAC02 SoCI,5
+STA0230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Salaries and wages,TAC09 Staff,5
+STA0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Social security costs,TAC09 Staff,5
+STA0245,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Apprenticeship levy,TAC09 Staff,5
+STA0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Pension cost - employer contributions to NHS pension scheme,TAC09 Staff,5
+STA0250A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Pension cost - employer contributions paid by NHSE on provider's behalf,TAC09 Staff,5
+SOC0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other reserve movements,TAC02 SoCI,5
+SOC0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value gains/(losses) on financial assets mandated at FV through OCI,TAC02 SoCI,5
+SOC0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Recycling gains/(losses) on disposal of financial assets mandated at FV through OCI,TAC02 SoCI,5
+SOC0180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Foreign exchange gains/(losses) recognised directly in OCI,TAC02 SoCI,5
+SOC0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",TOTAL COMPREHENSIVE INCOME / (EXPENSE) FOR THE PERIOD,TAC02 SoCI,5
+SOC0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","(i) non-controlling interest, and",TAC02 SoCI,5
+SOC0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",(ii) owners of the parent,TAC02 SoCI,5
+SOC0220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",TOTAL,TAC02 SoCI,5
+SFP0710,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total non-current borrowings,TAC21 Borrowings,5
+SOC0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments,TAC02 SoCI,5
+SOC0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Revaluations,TAC02 SoCI,5
+SOC0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Share of comprehensive income from associates and joint ventures,TAC02 SoCI,5
+SOC0125,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value gains/(losses) on equity instruments designated at FV through OCI,TAC02 SoCI,5
+SOC0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other recognised gains and losses,TAC02 SoCI,5
+SOC0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Remeasurements of net defined benefit pension scheme liability / asset,TAC02 SoCI,5
+SOC0145,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gain/(loss) on transfers by absorption (modified),TAC02 SoCI,5
+BAL1460,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Income and expenditure reserve,TAC03 SoFP,5
+BAL1470,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Non-controlling Interest,TAC03 SoFP,5
+BAL1490,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Charitable fund reserves,TAC03 SoFP,5
+BAL1500,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total taxpayers' and others' equity,TAC03 SoFP,5
+BOR0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: bank overdraft,TAC21 Borrowings,5
+BOR0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: other current borrowings,TAC21 Borrowings,5
+BOR0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: other non-current borrowings,TAC21 Borrowings,5
+BAL1380,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other liabilities,TAC03 SoFP,5
+BAL1390,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total non-current liabilities,TAC03 SoFP,5
+BAL1400,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total assets employed,TAC03 SoFP,5
+BAL1410,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Public dividend capital,TAC03 SoFP,5
+BAL1420,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Revaluation reserve,TAC03 SoFP,5
+BAL1430,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Financial assets at FV through OCI reserve,TAC03 SoFP,5
+BAL1440,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other reserves,TAC03 SoFP,5
+BAL1450,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Merger reserve,TAC03 SoFP,5
+BAL1300,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other liabilities,TAC03 SoFP,5
+BAL1310,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Liabilities in disposal groups,TAC03 SoFP,5
+BAL1320,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total current liabilities,TAC03 SoFP,5
+BAL1330,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total assets less current liabilities,TAC03 SoFP,5
+BAL1340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Trade and other payables,TAC03 SoFP,5
+BAL1350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Borrowings,TAC03 SoFP,5
+BAL1360,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other financial liabilities,TAC03 SoFP,5
+BAL1370,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Provisions,TAC03 SoFP,5
+SFP0640,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total current borrowings,TAC21 Borrowings,5
+SFP0650,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Obligations under PFI, LIFT or other service concession contracts (excl lifecycle)",TAC21 Borrowings,5
+SFP0660,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Obligations under finance leases,TAC21 Borrowings,5
+SFP0670,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Capital loans,TAC21 Borrowings,5
+SFP0670C,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Drawdown in committed facility (non-DHSC),TAC21 Borrowings,5
+SFP0680,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Revenue support / working capital loans,TAC21 Borrowings,5
+SFP0700,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other loans (non-DHSC),TAC21 Borrowings,5
+SFP0570A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Bank overdrafts - Government Banking Service,TAC21 Borrowings,5
+SFP0570B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Bank overdrafts - Commercial,TAC21 Borrowings,5
+SFP0580,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Obligations under PFI, LIFT or other service concession contracts (excl lifecycle)",TAC21 Borrowings,5
+SFP0590,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Obligations under finance leases,TAC21 Borrowings,5
+SFP0600,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Capital loans,TAC21 Borrowings,5
+SFP0610,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Revenue support / working capital loans,TAC21 Borrowings,5
+SFP0630,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other loans (non-DHSC),TAC21 Borrowings,5
+SCI1280,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Main finance costs,TAC11 Finance & other,5
+SCI1290,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Contingent finance costs,TAC11 Finance & other,5
+SCI1320,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Unwinding of discount on provisions,TAC11 Finance & other,5
+SCI1330,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other finance costs,TAC11 Finance & other,5
+SCI1340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total finance expenditure,TAC11 Finance & other,5
+SCI1205,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total other gains/(losses),TAC11 Finance & other,5
+SCI1210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Capital loans,TAC11 Finance & other,5
+SCI1220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Revenue support / working capital loans,TAC11 Finance & other,5
+SCI1240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest on other loans,TAC11 Finance & other,5
+SCI1250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest on bank overdrafts,TAC11 Finance & other,5
+SCI1260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest on finance lease obligations,TAC11 Finance & other,5
+SCI1270,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest on the late payment of commercial debt,TAC11 Finance & other,5
+CCE0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other current investments,TAC19 CCE,5
+CCE0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total cash and cash equivalents as in SoFP,TAC19 CCE,5
+CCE0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Bank overdrafts (GBS and commercial banks),TAC19 CCE,5
+CCE0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Drawdown in committed facility (non-DHSC),TAC19 CCE,5
+CCE0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total cash and cash equivalents as in SoCF,TAC19 CCE,5
+CFS0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Movements in charitable fund working capital,TAC05 SoCF,5
+CFS0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: other movements in operating cash flows,TAC05 SoCF,5
+CFS0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: net cash flows from investing activities,TAC05 SoCF,5
+CCE0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC19 CCE,5
+CCE0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption,TAC19 CCE,5
+CCE0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Net change in year,TAC19 CCE,5
+CCE0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers to FT upon authorisation,TAC19 CCE,5
+CCE0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At 31 March,TAC19 CCE,5
+CCE0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash at commercial banks and in hand,TAC19 CCE,5
+CCE0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash with the Government Banking Service,TAC19 CCE,5
+CCE0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Deposits with the National Loan Fund,TAC19 CCE,5
+CAP2647,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Addition to lifecycle prepayment - revenue,TAC24 On-SoFP PFI,5
+CAP2660,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Unitary payment payable to service concession operator (total of all schemes),TAC24 On-SoFP PFI,5
+CAP2680,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Amounts charged to revenue (freetext required),TAC24 On-SoFP PFI,5
+CAP2690,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Amounts capitalised (freetext required),TAC24 On-SoFP PFI,5
+CAP2700,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total amount paid to service concession operator,TAC24 On-SoFP PFI,5
+CCE0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At 1 April,TAC19 CCE,5
+CCE0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustments,TAC19 CCE,5
+CCE0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At 1 April (restated),TAC19 CCE,5
+CAP2530,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Number of schemes that the trust has (accounted for on-SoFP) as at 31 March 2020,TAC24 On-SoFP PFI,5
+CAP2590,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Service element (and other charges to operating expenditure excluding revenue lifecycle),TAC24 On-SoFP PFI,5
+CAP2600,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Repayment of balance sheet obligation,TAC24 On-SoFP PFI,5
+CAP2610,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Interest charge,TAC24 On-SoFP PFI,5
+CAP2620,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Capital lifecycle maintenance,TAC24 On-SoFP PFI,5
+CAP2630,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Revenue lifecycle maintenance,TAC24 On-SoFP PFI,5
+CAP2640,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Contingent rent,TAC24 On-SoFP PFI,5
+CAP2646,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Addition to lifecycle prepayment - capital,TAC24 On-SoFP PFI,5
+EXP0260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments net of (reversals),TAC08 Op Exp,5
+EXP0270A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Movement in credit loss allowance: contract receivables/assets,TAC08 Op Exp,5
+EXP0270B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Movement in credit loss allowance: all other receivables & investments,TAC08 Op Exp,5
+EXP0280A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Audit services - statutory audit,TAC08 Op Exp,5
+EXP0280B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other auditor remuneration (payable to external auditor only),TAC08 Op Exp,5
+EXP0290A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Clinical negligence - amounts payable to NHS Resolution (premium),TAC08 Op Exp,5
+EXP0290B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Clinical negligence - excesses payable and premiums due to alternative insurers,TAC08 Op Exp,5
+EXP0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Consultancy,TAC08 Op Exp,5
+EXP0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Establishment,TAC08 Op Exp,5
+EXP0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Premises - business rates collected by local authorities,TAC08 Op Exp,5
+EXP0220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Premises - other,TAC08 Op Exp,5
+EXP0230A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transport (business travel only),TAC08 Op Exp,5
+EXP0230B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transport - other (including patient travel),TAC08 Op Exp,5
+EXP0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Depreciation,TAC08 Op Exp,5
+EXP0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Amortisation,TAC08 Op Exp,5
+EXP0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Staff and executive directors costs,TAC08 Op Exp,5
+EXP0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Non-executive directors,TAC08 Op Exp,5
+EXP0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Supplies and services – clinical (excluding drugs costs),TAC08 Op Exp,5
+EXP0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Supplies and services - general,TAC08 Op Exp,5
+EXP0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Drugs costs (drugs inventory consumed and purchase of non-inventory drugs),TAC08 Op Exp,5
+CFS0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: net cash flows from financing activities,TAC05 SoCF,5
+CFS1000,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Movement in loans from the Department of Health and Social Care,TAC05 SoCF,5
+CFS1010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Movement in other loans,TAC05 SoCF,5
+EXP0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Purchase of healthcare from NHS and DHSC bodies,TAC08 Op Exp,5
+EXP0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Purchase of healthcare from non-NHS and non-DHSC bodies,TAC08 Op Exp,5
+EXP0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Purchase of social care,TAC08 Op Exp,5
+EXP0380J,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Car parking and security,TAC08 Op Exp,5
+EXP0380K,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Hospitality,TAC08 Op Exp,5
+EXP0380L,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other losses and special payments - staff costs,TAC08 Op Exp,5
+EXP0380M,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other losses and special payments - non-staff,TAC08 Op Exp,5
+EXP0380N,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Grossing up consortium arrangements,TAC08 Op Exp,5
+EXP0380O,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other services (e.g. external payroll),TAC08 Op Exp,5
+EXP0380Z,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other,TAC08 Op Exp,5
+EXP0390,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total operating expenditure,TAC08 Op Exp,5
+EXP0380B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Provisions arising / released in year,TAC08 Op Exp,5
+EXP0380C,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Change in provisions discount rate,TAC08 Op Exp,5
+EXP0380D,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Internal audit - staff costs,TAC08 Op Exp,5
+EXP0380E,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Internal audit - non-staff,TAC08 Op Exp,5
+EXP0380F,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Legal fees,TAC08 Op Exp,5
+EXP0380G,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Insurance,TAC08 Op Exp,5
+EXP0380H,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Early retirements - staff costs,TAC08 Op Exp,5
+EXP0380I,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Early retirements - non-staff,TAC08 Op Exp,5
+EXP0350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Redundancy costs - staff costs,TAC08 Op Exp,5
+EXP0360,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Redundancy costs - non-staff,TAC08 Op Exp,5
+EXP0370,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Charges to operating expenditure for on-SoFP IFRIC 12 schemes (e.g. PFI / LIFT) on IFRS basis,TAC08 Op Exp,5
+EXP0375,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Charges to operating expenditure for off-SoFP PFI / LIFT schemes,TAC08 Op Exp,5
+EXP0380A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Inventories written down (net including drugs),TAC08 Op Exp,5
+EXP0300,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Research and development - staff costs,TAC08 Op Exp,5
+EXP0310,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Research and development - non-staff,TAC08 Op Exp,5
+EXP0320,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Education and training - staff costs,TAC08 Op Exp,5
+EXP0330A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Education and training - non-staff,TAC08 Op Exp,5
+EXP0330B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Education and training - notional expenditure funded from apprenticeship fund,TAC08 Op Exp,5
+FIN0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest on other investments / financial assets,TAC11 Finance & other,5
+FIN0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable fund investment income,TAC11 Finance & other,5
+FIN0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other,TAC11 Finance & other,5
+FIN0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total finance revenue,TAC11 Finance & other,5
+FIN0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total interest expense,TAC11 Finance & other,5
+FIN0089,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total liability accruing in year under this legislation as a result of late payments,TAC11 Finance & other,5
+FIN0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Amounts actually paid and included within other interest arising from claims made under this legislation,TAC11 Finance & other,5
+FIN0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Compensation paid to cover debt recovery costs under this legislation,TAC11 Finance & other,5
+FIN0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest on bank accounts,TAC11 Finance & other,5
+FIN0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest income on finance leases,TAC11 Finance & other,5
+FI0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Receivables (excluding non financial assets) - with DHSC group bodies,TAC27 Fin Inst,5
+FI0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Receivables (excluding non financial assets) - with other bodies,TAC27 Fin Inst,5
+FI0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other investments / financial assets,TAC27 Fin Inst,5
+FI0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash and cash equivalents,TAC27 Fin Inst,5
+FI0055,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Consolidated NHS Charitable fund financial assets,TAC27 Fin Inst,5
+FI0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total as at 31 March 2019,TAC27 Fin Inst,5
+SCI1170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Losses on disposal of investment properties,TAC11 Finance & other,5
+SCI1180A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Losses disposal of financial assets held at amortised cost,TAC11 Finance & other,5
+SCI1180B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Losses on disposal of other financial assets / investments,TAC11 Finance & other,5
+SCI1190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Losses on disposal of assets held for sale,TAC11 Finance & other,5
+SCI1200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total gains/(losses) on disposal of assets,TAC11 Finance & other,5
+SCI1201,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gains/(losses) on foreign exchange,TAC11 Finance & other,5
+SCI1140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gains on disposal of assets held for sale,TAC11 Finance & other,5
+SCI1160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Losses on disposal of intangible assets,TAC11 Finance & other,5
+SCI1110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gains on disposal of intangible assets,TAC11 Finance & other,5
+SCI1120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gains on disposal of investment properties,TAC11 Finance & other,5
+SCI1130A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gain on disposal of financial assets held at amortised cost,TAC11 Finance & other,5
+SCI1130B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gain on disposal of other financial assets / investments,TAC11 Finance & other,5
+SCI0220B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value gains/(losses) on financial assets / investments,TAC11 Finance & other,5
+SCI0220C,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value gains/(losses) on financial liabilities,TAC11 Finance & other,5
+SCI0220D,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Recycling gains/(losses) on disposal of financial assets mandated as FV through OCI,TAC11 Finance & other,5
+SCI0230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Corporation tax expense,TAC02 SoCI,5
+SCI0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",SURPLUS/(DEFICIT) FOR THE YEAR,TAC02 SoCI,5
+SCI0240A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",SURPLUS/(DEFICIT) FROM CONTINUING OPERATIONS,TAC02 SoCI,5
+SCI0240B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Surplus/(deficit) from discontinued operations and the gain/(loss) on disposal of discontinued operations,TAC02 SoCI,5
+IGR0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reclassifications to/from PPE,TAC15 Investments & groups,5
+IGR0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers to/from assets held for sale and assets in disposal groups,TAC15 Investments & groups,5
+IGR0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Disposals,TAC15 Investments & groups,5
+IGR0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer to FT upon authorisation,TAC15 Investments & groups,5
+IGR0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Carrying value at 31 March,TAC15 Investments & groups,5
+IGR0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC15 Investments & groups,5
+IGR0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption,TAC15 Investments & groups,5
+IGR0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Additions,TAC15 Investments & groups,5
+IGR0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value gains [taken to I&E],TAC15 Investments & groups,5
+IGR0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value losses (impairment) [taken to I&E],TAC15 Investments & groups,5
+FIN0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gain on disposal of discontinued operations,TAC11 Finance & other,5
+FIN0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",(Loss) on disposal of discontinued operations,TAC11 Finance & other,5
+FIN0180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Corporation tax expense attributable to discontinued operations,TAC11 Finance & other,5
+FIN0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total,TAC11 Finance & other,5
+IGR0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Carrying value at 1 April,TAC15 Investments & groups,5
+IGR0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustments,TAC15 Investments & groups,5
+IGR0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Carrying value at 1 April  - restated,TAC15 Investments & groups,5
+FIN0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gains / losses on disposal of charitable fund assets,TAC11 Finance & other,5
+FIN0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value gains/(losses) on charitable fund investments & investment properties,TAC11 Finance & other,5
+FIN0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Recycling gains/(losses) on disposal of charitable fund financial assets mandated as FV through OCI,TAC11 Finance & other,5
+FIN0135,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other gains/(losses),TAC11 Finance & other,5
+FIN0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Operating income of discontinued operations,TAC11 Finance & other,5
+FIN0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Operating expenses of discontinued operations,TAC11 Finance & other,5
+SCI0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Finance income,TAC02 SoCI,5
+SCI0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Finance expense,TAC02 SoCI,5
+SCI0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PDC dividend expense,TAC02 SoCI,5
+SCI0180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NET FINANCE COSTS,TAC02 SoCI,5
+SCI0190A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other gains/(losses),TAC02 SoCI,5
+SCI0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Share of profit/(loss) of associates/ joint ventures,TAC02 SoCI,5
+SCI0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gains/(losses) from transfers by absorption,TAC02 SoCI,5
+SCI0220A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value gains/(losses) on investment properties,TAC11 Finance & other,5
+SCF0340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash transferred to NHS foundation trust upon authorisation as FT,TAC05 SoCF,5
+SCF0345,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash and cash equivalents at start of period for new FTs,TAC05 SoCF,5
+SCF0350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash and cash equivalents transferred by absorption,TAC05 SoCF,5
+SCF0355,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash and cash equivalents at 31 March,TAC05 SoCF,5
+SCI0100A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Operating income from patient care activities,TAC02 SoCI,5
+SCI0110A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other operating income,TAC02 SoCI,5
+SCI0125A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Operating expenses,TAC02 SoCI,5
+SCI0140A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",OPERATING SURPLUS / (DEFICIT),TAC02 SoCI,5
+SCF0305,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PDC dividend (paid)/refunded,TAC05 SoCF,5
+SCF0310,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash flows from (used in) other financing activities,TAC05 SoCF,5
+SCF0310A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash flows attributable to financing activities of discontinued operations,TAC05 SoCF,5
+SCF0315,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Net cash generated from/(used in) financing activities,TAC05 SoCF,5
+SCF0320,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Increase/(decrease) in cash and cash equivalents,TAC05 SoCF,5
+SCF0325,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash and cash equivalents at 1 April - restated,TAC05 SoCF,5
+SCF0325A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash and cash equivalents at 1 April - brought forward,TAC05 SoCF,5
+SCF0325B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustments,TAC05 SoCF,5
+SCF0275,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other capital receipts,TAC05 SoCF,5
+SCF0280,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Capital element of finance lease rental payments,TAC05 SoCF,5
+SCF0285,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Capital element of PFI, LIFT and other service concession payments",TAC05 SoCF,5
+SCF0290A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest on DHSC loans,TAC05 SoCF,5
+SCF0290B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other interest (e.g. overdrafts),TAC05 SoCF,5
+SCF0290C,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest on other loans,TAC05 SoCF,5
+SCF0295,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest element of finance lease,TAC05 SoCF,5
+SCF0300,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Interest element of PFI, LIFT and other service concession obligations",TAC05 SoCF,5
+SCF0226,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prepayment of PFI capital contributions (cash payments),TAC05 SoCF,5
+SCF0230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash movement from acquisitions of business units and subsidiaries (not absorption transfers),TAC05 SoCF,5
+SCF0235,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash movement from disposals of business units and subsidiaries (not absorption transfers),TAC05 SoCF,5
+SCF0235A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash flows attributable to investing activities of discontinued operations,TAC05 SoCF,5
+SCF0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Net cash generated from/(used in) investing activities,TAC05 SoCF,5
+SCF0245,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Public dividend capital received,TAC05 SoCF,5
+SCF0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Public dividend capital repaid,TAC05 SoCF,5
+SCF0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Purchase of intangible assets,TAC05 SoCF,5
+SCF0205,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Proceeds from sales of intangible assets,TAC05 SoCF,5
+SCF0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Purchase of property, plant and equipment and investment property",TAC05 SoCF,5
+SCF0215,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Proceeds from sales of property, plant and equipment and investment property",TAC05 SoCF,5
+SCF0220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Receipt of cash donations to purchase capital assets,TAC05 SoCF,5
+SCF0165,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Increase/(decrease) in provisions,TAC05 SoCF,5
+SCF0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Corporation tax (paid) / received,TAC05 SoCF,5
+SCF0175A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Movements in operating cash flows of discontinued operations,TAC05 SoCF,5
+SCF0175B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other movements in operating cash flows,TAC05 SoCF,5
+SCF0180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Net cash generated from / (used in) operations,TAC05 SoCF,5
+SCF0185,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest received,TAC05 SoCF,5
+SCF0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Purchase of financial assets / investments,TAC05 SoCF,5
+SCF0195,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Proceeds from sales / settlements of financial assets / investments,TAC05 SoCF,5
+SCF0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Income recognised in respect of capital donations (cash and non-cash),TAC05 SoCF,5
+SCF0125,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Amortisation of PFI deferred income / credit,TAC05 SoCF,5
+SCF0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",On SoFP pension liability - employer contributions paid less net charge to the SOCI,TAC05 SoCF,5
+SCF0135,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",(Increase)/decrease in receivables,TAC05 SoCF,5
+SCF0140A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",(Increase)/decrease in other assets,TAC05 SoCF,5
+SCF0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",(Increase)/decrease in inventories,TAC05 SoCF,5
+SCF0155,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Increase/(decrease) in trade and other payables,TAC05 SoCF,5
+SCF0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Increase/(decrease) in other liabilities,TAC05 SoCF,5
+INC0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",High cost drugs income from commissioners,TAC06 Op Inc 1,5
+INC0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other NHS clinical income,TAC06 Op Inc 1,5
+IMP0055,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total impairments and (reversals),TAC12 Impairment,5
+IMP0025,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Unforeseen obsolescence,TAC12 Impairment,5
+IMP0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Loss as a result of a catastrophe,TAC12 Impairment,5
+IMP0035,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other,TAC12 Impairment,5
+IMP0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Changes in market price,TAC12 Impairment,5
+IMP0044,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments of charitable fund assets,TAC12 Impairment,5
+IMP0045,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total impairments and (reversals) charged to operating surplus / deficit,TAC12 Impairment,5
+IMP0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total net impairments charged to revaluation reserve,TAC12 Impairment,5
+IMP0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Loss or damage resulting from normal operations,TAC12 Impairment,5
+IMP0015,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Over specification of assets,TAC12 Impairment,5
+IMP0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Abandonment of assets in the course of construction,TAC12 Impairment,5
+INC1180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Non NHS: overseas patients (non-reciprocal, chargeable to patient)",TAC06 Op Inc 1,5
+INC1190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Injury cost recovery scheme,TAC06 Op Inc 1,5
+INC1200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Non NHS: other,TAC06 Op Inc 1,5
+INC1220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total income from patient care activities,TAC06 Op Inc 1,5
+INC1230A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Research and development (IFRS 15),TAC07 Op Inc 2,5
+INC1230B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Research and development (non-IFRS 15 e.g. IAS 20),TAC07 Op Inc 2,5
+INC1240A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Education and training (excluding notional apprenticeship levy income),TAC07 Op Inc 2,5
+INC1240B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Education and training - notional income from apprenticeship fund,TAC07 Op Inc 2,5
+INC1110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Clinical commissioning groups,TAC06 Op Inc 1,5
+INC1120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS Foundation Trusts,TAC06 Op Inc 1,5
+INC1130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS Trusts,TAC06 Op Inc 1,5
+INC1140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Local authorities,TAC06 Op Inc 1,5
+INC1150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Department of Health and Social Care,TAC06 Op Inc 1,5
+INC1160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS other (including Public Health England),TAC06 Op Inc 1,5
+INC1170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Non NHS: private patients,TAC06 Op Inc 1,5
+INC0310,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Income from other sources (e.g. local authorities),TAC06 Op Inc 1,5
+INC0330,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Private patient income,TAC06 Op Inc 1,5
+INC0333,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Additional pension contribution central funding,TAC06 Op Inc 1,5
+INC0340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other clinical income,TAC06 Op Inc 1,5
+INC0350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total income from patient care activities,TAC06 Op Inc 1,5
+INC1100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS England,TAC06 Op Inc 1,5
+INC0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Clinical partnerships providing mandatory services (including S75 agreements),TAC06 Op Inc 1,5
+INC0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Clinical income for the secondary commissioning of mandatory services,TAC06 Op Inc 1,5
+INC0260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other clinical income from mandatory services,TAC06 Op Inc 1,5
+INC0270,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",A&E income,TAC06 Op Inc 1,5
+INC0280,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PTS income,TAC06 Op Inc 1,5
+INC0290,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other income,TAC06 Op Inc 1,5
+INC1355,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other (recognised in accordance with standards other than IFRS 15),TAC07 Op Inc 2,5
+INC1355A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Amortisation of PFI deferred income / credits,TAC07 Op Inc 2,5
+INC1360,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total other operating income,TAC07 Op Inc 2,5
+INC1361,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Related to continuing operations,TAC07 Op Inc 2,5
+INC1362,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Related to discontinued operations,TAC07 Op Inc 2,5
+INC1364,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total income from patient care activities (from TAC06),TAC07 Op Inc 2,5
+INC1365,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total operating income,TAC07 Op Inc 2,5
+INT0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Valuation / gross cost at 1 April 2018 - brought forward,TAC13 Intangibles,5
+INC1320,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Income in respect of employee benefits accounted on a gross basis,TAC07 Op Inc 2,5
+INC1330A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Rental revenue from finance leases - contingent rent,TAC07 Op Inc 2,5
+INC1350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other (recognised in accordance with IFRS 15),TAC07 Op Inc 2,5
+INC1270A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Charitable and other contributions to expenditure - received from NHS charities,TAC07 Op Inc 2,5
+INC1270B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Charitable and other contributions to expenditure - received from other bodies,TAC07 Op Inc 2,5
+INC1280A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Non-patient care services to other bodies,TAC07 Op Inc 2,5
+INC1300,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Support from DHSC for mergers,TAC07 Op Inc 2,5
+INC1250A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Donations/grants of physical assets (non-cash) - received from NHS charities,TAC07 Op Inc 2,5
+INC1250B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Donations/grants of physical assets (non-cash) - received from other bodies,TAC07 Op Inc 2,5
+INC1260A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash donations for the purchase of capital assets - received from NHS charities,TAC07 Op Inc 2,5
+INC1260B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash donations for the purchase of capital assets - received from other bodies,TAC07 Op Inc 2,5
+INC1260C,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash grants for the purchase of capital assets - received from other bodies,TAC07 Op Inc 2,5
+SCE0260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer to FT upon authorisation,TAC04 SOCIE,5
+SCE0270,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Taxpayers' and others' equity at 31 March 2019,TAC04 SOCIE,5
+SCF0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Operating surplus/(deficit),TAC05 SoCF,5
+SCF0100A,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Operating surplus/(deficit) from continuing operations,TAC05 SoCF,5
+SCF0100B,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Operating surplus/(deficit) of discontinued operations,TAC05 SoCF,5
+SCF0105,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Depreciation and amortisation,TAC05 SoCF,5
+SCF0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments and reversals,TAC05 SoCF,5
+SCF0115,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Unrealised gains/(losses) on foreign exchange,TAC05 SoCF,5
+SCE0180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Remeasurements of defined net benefit pension scheme liability / asset,TAC04 SOCIE,5
+SCE0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Public dividend capital received,TAC04 SOCIE,5
+SCE0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Public dividend capital repaid,TAC04 SOCIE,5
+SCE0220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Public dividend capital written off,TAC04 SOCIE,5
+SCE0230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other movements in PDC in year,TAC04 SOCIE,5
+SCE0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reserves eliminated on dissolution (unlocked on request),TAC04 SOCIE,5
+SCE0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other reserve movements,TAC04 SOCIE,5
+SCE0255,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other reserve movements - charitable fund consolidation adjustment,TAC04 SOCIE,5
+SCE0115,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Revaluations and impairments - charitable fund assets,TAC04 SOCIE,5
+SCE0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer to retained earnings on disposal of assets,TAC04 SOCIE,5
+SCE0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Share of comprehensive income from associates and joint ventures,TAC04 SOCIE,5
+SCE0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value gains/(losses) on financial assets mandated at FV through OCI,TAC04 SOCIE,5
+SCE0145,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value gains/(losses) on equity instruments designated at FV through OCI,TAC04 SOCIE,5
+SCE0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Recycling gains/(losses) on disposal of financial assets mandated at FV through OCI,TAC04 SOCIE,5
+SCE0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Foreign exchange gains/(losses) recognised directly in OCI,TAC04 SOCIE,5
+SCE0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other recognised gains and losses,TAC04 SOCIE,5
+SCE0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption: transfers between reserves,TAC04 SOCIE,5
+SCE0065,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption: transfers between reserves (charitable fund),TAC04 SOCIE,5
+SCE0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer from reval reserve to I&E reserve for impairments arising from consumption of economic benefits,TAC04 SOCIE,5
+SCE0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers between reserves,TAC04 SOCIE,5
+SCE0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Net impairments,TAC04 SOCIE,5
+SCE0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Revaluations - property, plant and equipment",TAC04 SOCIE,5
+SCE0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Revaluations - intangible assets,TAC04 SOCIE,5
+INT0230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC13 Intangibles,5
+INT0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption,TAC13 Intangibles,5
+INT0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Provided during the year,TAC13 Intangibles,5
+INT0255,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer of donated assets (non-cash) from consolidated charitable fund to trust,TAC13 Intangibles,5
+INT0260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments charged to operating expenses,TAC13 Intangibles,5
+INT0270,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments charged to the revaluation reserve,TAC13 Intangibles,5
+INT0280,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reversal of impairments credited to operating expenses,TAC13 Intangibles,5
+INT0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reclassifications,TAC13 Intangibles,5
+INT0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers to/from assets held for sale and assets in disposal groups,TAC13 Intangibles,5
+INT0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Disposals/derecognition,TAC13 Intangibles,5
+INT0180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer to FT upon authorisation,TAC13 Intangibles,5
+INT0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Valuation/gross cost at 31 March 2019,TAC13 Intangibles,5
+INT0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Accumulated amortisation at 1 April 2018 - brought forward,TAC13 Intangibles,5
+INT0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustment,TAC13 Intangibles,5
+INT0220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Accumulated amortisation at 1 April 2018 - restated,TAC13 Intangibles,5
+INT0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Additions - assets purchased from cash donations/grants,TAC13 Intangibles,5
+INT0095,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer of donated assets (non-cash) from consolidated charitable fund to trust,TAC13 Intangibles,5
+INT0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments charged to operating expenses,TAC13 Intangibles,5
+INT0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments charged to the revaluation reserve,TAC13 Intangibles,5
+INT0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reversal of impairments credited to operating expenses,TAC13 Intangibles,5
+INT0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reversal of impairments credited to the revaluation reserve,TAC13 Intangibles,5
+INT0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Revaluations,TAC13 Intangibles,5
+INT0145,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Remeasurements - retranslation gains / (losses) on foreign operations,TAC13 Intangibles,5
+INT0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustment,TAC13 Intangibles,5
+INT0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Valuation / gross cost at 1 April 2018 - restated,TAC13 Intangibles,5
+INT0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC13 Intangibles,5
+INT0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption,TAC13 Intangibles,5
+INT0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Additions - purchased / internally generated,TAC13 Intangibles,5
+INT0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Additions - donations of physical assets (non-cash),TAC13 Intangibles,5
+INV0115,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Movement in charitable fund inventories,TAC17 Inventories,5
+INV0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer to FT upon authorisation,TAC17 Inventories,5
+INV0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Carrying value at 31 March 19,TAC17 Inventories,5
+INV0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Held at lower of cost and NRV,TAC17 Inventories,5
+INV0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Held at fair value less costs to sell,TAC17 Inventories,5
+LSP0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","a. theft, fraud etc",TAC29 Losses+SP,5
+LSP0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",b. overpayment of salaries etc.,TAC29 Losses+SP,5
+LSP0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",c. other causes,TAC29 Losses+SP,5
+INV0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Inventories consumed (recognised in expenses),TAC17 Inventories,5
+INV0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Write-down of inventories recognised as an expense,TAC17 Inventories,5
+INV0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reversal of any write down of inventories,TAC17 Inventories,5
+INV0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer (to) / from inventory work in progress,TAC17 Inventories,5
+INT0360,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Net book value at 31 March 2019,TAC13 Intangibles,5
+INV0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Carrying value  at 1 April 2018,TAC17 Inventories,5
+INV0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustment,TAC17 Inventories,5
+INV0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Carrying value  at 1 April 2018 - restated,TAC17 Inventories,5
+INV0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC17 Inventories,5
+INV0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption,TAC17 Inventories,5
+INV0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Additions,TAC17 Inventories,5
+INT0290,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reversal of impairments credited to the revaluation reserve,TAC13 Intangibles,5
+INT0300,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Revaluations,TAC13 Intangibles,5
+INT0305,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Remeasurements - retranslation gains / (losses) on foreign operations,TAC13 Intangibles,5
+INT0310,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reclassifications,TAC13 Intangibles,5
+INT0320,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers to/from assets held for sale and assets in disposal groups,TAC13 Intangibles,5
+INT0330,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Disposals/derecognition,TAC13 Intangibles,5
+INT0340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer to FT upon authorisation,TAC13 Intangibles,5
+INT0350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Accumulated amortisation at 31 March 2019,TAC13 Intangibles,5
+LSP0260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",1. Losses of cash (including cases of fraud),TAC29 Losses+SP,5
+LSP0270,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",2. Fruitless payments and constructive losses,TAC29 Losses+SP,5
+LSP0280,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",3. Bad debts and claims abandoned,TAC29 Losses+SP,5
+LSP0290,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","4. Damage to buildings, property etc.",TAC29 Losses+SP,5
+LSP0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",f. patient referrals outside the UK and EEA Guidelines,TAC29 Losses+SP,5
+LSP0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",g. other,TAC29 Losses+SP,5
+LSP0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","h. maladministration, no financial loss",TAC29 Losses+SP,5
+LSP0220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",8. Special severance payments,TAC29 Losses+SP,5
+LSP0230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",9. Extra statutory and regulatory,TAC29 Losses+SP,5
+LSP0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total special payments,TAC29 Losses+SP,5
+LSP0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total losses and special payments,TAC29 Losses+SP,5
+LSP0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",5. Compensation under court order or legally binding arbitration award,TAC29 Losses+SP,5
+LSP0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",6. Extra contractual to contractors,TAC29 Losses+SP,5
+LSP0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",a. loss of personal effects,TAC29 Losses+SP,5
+LSP0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",b. clinical negligence with advice,TAC29 Losses+SP,5
+LSP0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",c. personal injury with advice,TAC29 Losses+SP,5
+LSP0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",d. other negligence and injury,TAC29 Losses+SP,5
+LSP0180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",e. other employment payments (should not include special severance payments which are disclosed below),TAC29 Losses+SP,5
+LSP0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",2. Fruitless payments and constructive losses,TAC29 Losses+SP,5
+LSP0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",a. private patients,TAC29 Losses+SP,5
+LSP0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",b. overseas visitors,TAC29 Losses+SP,5
+LSP0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",c. other,TAC29 Losses+SP,5
+LSP0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","a. theft, fraud etc",TAC29 Losses+SP,5
+LSP0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",b. stores losses,TAC29 Losses+SP,5
+LSP0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",c. other,TAC29 Losses+SP,5
+LSP0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total losses,TAC29 Losses+SP,5
+LSP0360,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",TOTAL GIFTS,TAC29 Losses+SP,5
+LSP0370,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gift 1,TAC29 Losses+SP,5
+LSP0380,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gift 2,TAC29 Losses+SP,5
+LSP0390,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gift 3,TAC29 Losses+SP,5
+LSP0400,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gift 4,TAC29 Losses+SP,5
+LSP0410,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gift 5,TAC29 Losses+SP,5
+SCE0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Taxpayers' and others' equity 1 April 2018 - as previously stated,TAC04 SOCIE,5
+SCE0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustment,TAC04 SOCIE,5
+SCE0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Taxpayers' and others' equity at 1 April 2018 - restated,TAC04 SOCIE,5
+SCE0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC04 SOCIE,5
+SCE0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Surplus/(deficit) for the year,TAC04 SOCIE,5
+SCE0055,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gain / (loss) on transfers by absorption (modified),TAC04 SOCIE,5
+REC0600,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Short term PFI receivable,TAC18 Receivables,5
+REC0610,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total other current assets,TAC18 Receivables,5
+REC0620,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Net defined benefit pension scheme asset,TAC18 Receivables,5
+REC0630,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other assets,TAC18 Receivables,5
+REC0640,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total other non-current assets,TAC18 Receivables,5
+REC0320,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other receivables,TAC18 Receivables,5
+REC0325,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: receivables,TAC18 Receivables,5
+REC0330,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total non-current receivables,TAC18 Receivables,5
+REC0335,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total receivables,TAC18 Receivables,5
+REC0340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Current,TAC18 Receivables,5
+REC0350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Non-current,TAC18 Receivables,5
+REC0590,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other assets,TAC18 Receivables,5
+REC0260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI lifecycle prepayments (revenue),TAC18 Receivables,5
+REC0270,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI lifecycle prepayments (capital),TAC18 Receivables,5
+REC0280,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest receivable,TAC18 Receivables,5
+REC0290,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Finance lease receivables,TAC18 Receivables,5
+REC0300,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",VAT receivable,TAC18 Receivables,5
+REC0310,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Corporation and other taxes receivable,TAC18 Receivables,5
+REC0315,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Clinician pension tax provision reimbursement funding from NHSE,TAC18 Receivables,5
+REC0175,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Contract assets (IFRS 15),TAC18 Receivables,5
+REC0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Capital receivables (including accrued capital related income),TAC18 Receivables,5
+REC0209,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Allowance for impaired contract receivables / assets,TAC18 Receivables,5
+REC0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Allowance for impaired other receivables,TAC18 Receivables,5
+REC0220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Deposits and advances,TAC18 Receivables,5
+REC0230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prepayments (revenue) [non-PFI],TAC18 Receivables,5
+REC0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prepayments (capital) [non-PFI],TAC18 Receivables,5
+REC0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI prepayments - capital contributions,TAC18 Receivables,5
+REC0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",VAT receivable,TAC18 Receivables,5
+REC0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Corporation and other taxes receivable,TAC18 Receivables,5
+REC0155,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Clinician pension tax provision reimbursement funding from NHSE,TAC18 Receivables,5
+REC0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other receivables,TAC18 Receivables,5
+REC0165,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: receivables,TAC18 Receivables,5
+REC0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total current receivables,TAC18 Receivables,5
+REC0171,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Contract receivables (IFRS 15): invoiced,TAC18 Receivables,5
+REC0172,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Contract receivables (IFRS 15): not yet invoiced / non-invoiced,TAC18 Receivables,5
+REC0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI prepayments - capital contributions,TAC18 Receivables,5
+REC0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI lifecycle prepayments (revenue),TAC18 Receivables,5
+REC0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI lifecycle prepayments (capital),TAC18 Receivables,5
+REC0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest receivable,TAC18 Receivables,5
+REC0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Finance lease receivables,TAC18 Receivables,5
+REC0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PDC dividend receivable,TAC18 Receivables,5
+OPO0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Charitable fund incoming resources,TAC07 Op Inc 2,5
+OPO0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Income,TAC07 Op Inc 2,5
+OPO0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Full cost,TAC07 Op Inc 2,5
+OPO0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Surplus / (deficit),TAC07 Op Inc 2,5
+OPX0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Related to continuing operations,TAC08 Op Exp,5
+OPX0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Related to discontinued operations,TAC08 Op Exp,5
+OPX0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",1. The auditing of accounts of any associate of the Trust,TAC08 Op Exp,5
+OPX0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",2. Audit-related assurance services,TAC08 Op Exp,5
+OPX0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",3. Taxation compliance services,TAC08 Op Exp,5
+OPX0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",4. All taxation advisory services not falling within item 3 above;,TAC08 Op Exp,5
+OPX0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",5. internal audit services (only those payable to the external auditor),TAC08 Op Exp,5
+OPX0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",6. All assurance services not falling within items 1 to 5,TAC08 Op Exp,5
+OPP0001,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Related to continuing operations,TAC06 Op Inc 1,5
+OPP0002,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Related to discontinued operations,TAC06 Op Inc 1,5
+OPP0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Income recognised this year,TAC06 Op Inc 1,5
+OPP0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash payments received in-year (relating to invoices raised in current and previous years),TAC06 Op Inc 1,5
+OPP0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Amounts added to allowance for impairment of receivables (relating to invoices raised in current and prior years),TAC06 Op Inc 1,5
+OPP0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Amounts written off in-year (relating to invoices raised in current and previous years),TAC06 Op Inc 1,5
+OPX0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Charitable fund audit,TAC08 Op Exp,5
+OPX0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other NHS charitable fund resources expended,TAC08 Op Exp,5
+REC0002,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Contract receivables (IFRS 15): not yet invoiced / non-invoiced,TAC18 Receivables,5
+REC0005,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Contract assets (IFRS 15),TAC18 Receivables,5
+REC0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Capital receivables (including accrued capital related income),TAC18 Receivables,5
+REC0039,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Allowance for impaired contract receivables / assets,TAC18 Receivables,5
+REC0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Allowance for impaired other receivables,TAC18 Receivables,5
+REC0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Deposits and advances,TAC18 Receivables,5
+REC0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prepayments (revenue) [non-PFI],TAC18 Receivables,5
+REC0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prepayments (capital) [non-PFI],TAC18 Receivables,5
+PRO0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Equal pay (including agenda for change),TAC22 Provisions,5
+PRO0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Redundancy,TAC22 Provisions,5
+PRO0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other,TAC22 Provisions,5
+PRO0075,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Charitable fund provisions,TAC22 Provisions,5
+PRO0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total,TAC22 Provisions,5
+REC0001,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Contract receivables (IFRS 15): invoiced,TAC18 Receivables,5
+PPE0410,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Owned - donated,TAC14 PPE,5
+PPE0420,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NBV total at 31 March 2019,TAC14 PPE,5
+PRO0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Pensions - Early departure costs,TAC22 Provisions,5
+PRO0015,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Pensions - Injury benefits,TAC22 Provisions,5
+PRO0016,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Clinician pension tax reimbursement,TAC22 Provisions,5
+PRO0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Legal claims*,TAC22 Provisions,5
+PRO0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Restructuring,TAC22 Provisions,5
+PPE0340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer to FT upon authorisation,TAC14 PPE,5
+PPE0350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Accumulated depreciation at 31 March 2019,TAC14 PPE,5
+PPE0360,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Owned - purchased,TAC14 PPE,5
+PPE0380,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",On-SoFP PFI contracts and other service concession arrangements,TAC14 PPE,5
+PPE0390,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Off-SoFP PFI residual interests,TAC14 PPE,5
+OTD0400,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Investment property,TAC28 Disclosures,5
+OTD0420,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total disposals,TAC28 Disclosures,5
+OTD0430,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Less: Donated and granted capital additions,TAC28 Disclosures,5
+OTD0450,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Charge against Capital Resource Limit,TAC28 Disclosures,5
+OTD0460,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Capital Resource Limit,TAC28 Disclosures,5
+OTD0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total,TAC28 Disclosures,5
+OTD0330,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Property, Plant and Equipment",TAC28 Disclosures,5
+OTD0340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Intangible assets,TAC28 Disclosures,5
+OTD0350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Investment property,TAC28 Disclosures,5
+OTD0370,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total gross capital expenditure,TAC28 Disclosures,5
+OTD0380,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Property, Plant and Equipment",TAC28 Disclosures,5
+OTD0390,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Intangible assets,TAC28 Disclosures,5
+OTD0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",not later than 1 year,TAC28 Disclosures,5
+OTD0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",after 1 year and not later than 5 years,TAC28 Disclosures,5
+OTD0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",paid thereafter,TAC28 Disclosures,5
+OPX0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",7. Corporate finance transaction services not falling within items 1 to 6 above,TAC08 Op Exp,5
+OPX0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",8. All other non-audit services not falling within items 2 to 7 above,TAC08 Op Exp,5
+OPX0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",TOTAL,TAC08 Op Exp,5
+OPX0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Limitation on auditor's liability,TAC08 Op Exp,5
+OTD0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Property, plant and equipment",TAC28 Disclosures,5
+OTD0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Intangible assets,TAC28 Disclosures,5
+OTD0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total,TAC28 Disclosures,5
+PAY0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total non-current trade and other payables,TAC20 Payables,5
+PAY0205,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total trade and other payables,TAC20 Payables,5
+PAY0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Current,TAC20 Payables,5
+PAY0220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Non-current,TAC20 Payables,5
+PAY0340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Deferred income: contract liability (IFRS 15),TAC20 Payables,5
+PAY0345,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Deferred grants,TAC20 Payables,5
+PAY0350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI: deferred income / credits,TAC20 Payables,5
+PAY0360,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Lease incentives,TAC20 Payables,5
+PAY0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Capital payables (including capital accruals),TAC20 Payables,5
+PAY0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Accruals (revenue costs only),TAC20 Payables,5
+PAY0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Receipts in advance (including payments on account),TAC20 Payables,5
+PAY0161,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI lifecycle replacement received in advance,TAC20 Payables,5
+PAY0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",VAT payables,TAC20 Payables,5
+PAY0180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other taxes payable,TAC20 Payables,5
+PAY0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other payables,TAC20 Payables,5
+PAY0195,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: trade and other payables,TAC20 Payables,5
+PAY0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",VAT payables,TAC20 Payables,5
+PAY0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other taxes payable,TAC20 Payables,5
+PAY0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PDC dividend payable,TAC20 Payables,5
+PAY0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other payables,TAC20 Payables,5
+PAY0115,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: trade and other payables,TAC20 Payables,5
+PAY0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total current trade and other payables,TAC20 Payables,5
+PAY0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Trade payables,TAC20 Payables,5
+OTD0470,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Under / (over) spend against CRL,TAC28 Disclosures,5
+PAY0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Trade payables,TAC20 Payables,5
+PAY0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Capital payables (including capital accruals),TAC20 Payables,5
+PAY0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Accruals (revenue costs only),TAC20 Payables,5
+PAY0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Receipts in advance (including payments on account),TAC20 Payables,5
+PAY0041,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI lifecycle replacement received in advance,TAC20 Payables,5
+PAY0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Social security costs,TAC20 Payables,5
+PPE0290,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reversal of impairments credited to the revaluation reserve,TAC14 PPE,5
+PPE0300,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Revaluations,TAC14 PPE,5
+PPE0305,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Remeasurements - retranslation gains / (losses) on foreign operations,TAC14 PPE,5
+PPE0310,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reclassifications,TAC14 PPE,5
+PPE0320,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers to/from assets held for sale and assets in disposal groups,TAC14 PPE,5
+PPE0330,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Disposals/derecognition,TAC14 PPE,5
+PPE0230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC14 PPE,5
+PPE0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption,TAC14 PPE,5
+PPE0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Provided during the year,TAC14 PPE,5
+PPE0255,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer of donated assets (non-cash) from consolidated charitable fund to trust,TAC14 PPE,5
+PPE0260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments charged to operating expenses,TAC14 PPE,5
+PPE0270,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments charged to the revaluation reserve,TAC14 PPE,5
+PPE0280,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reversal of impairments credited to operating expenses,TAC14 PPE,5
+PPE0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Disposals/derecognition,TAC14 PPE,5
+PPE0180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer to FT upon authorisation,TAC14 PPE,5
+PPE0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Valuation/gross cost at 31 March 2019,TAC14 PPE,5
+PPE0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Accumulated depreciation at 1 April 2018 - brought forward,TAC14 PPE,5
+PPE0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustment,TAC14 PPE,5
+PPE0220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Accumulated depreciation at 1 April 2018 - restated,TAC14 PPE,5
+PPE0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments charged to the revaluation reserve,TAC14 PPE,5
+PPE0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reversal of impairments credited to operating expenses,TAC14 PPE,5
+PPE0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reversal of impairments credited to the revaluation reserve,TAC14 PPE,5
+PPE0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Revaluations,TAC14 PPE,5
+PPE0145,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Remeasurements - retranslation gains / (losses) on foreign operations,TAC14 PPE,5
+PPE0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Reclassifications,TAC14 PPE,5
+PPE0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers to/from assets held for sale and assets in disposal groups,TAC14 PPE,5
+PEN0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest cost,TAC26 Pension,5
+PEN0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Contribution by plan participants,TAC26 Pension,5
+PEN0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Actuarial (gains)/losses,TAC26 Pension,5
+PEN0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Benefits paid,TAC26 Pension,5
+PEN0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Past service costs,TAC26 Pension,5
+PEN0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Business combinations (transfers in/out),TAC26 Pension,5
+PEN0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Curtailments and settlements,TAC26 Pension,5
+PEN0140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transferred to NHS foundation trust upon authorisation as FT,TAC26 Pension,5
+PAY0470,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other financial liabilities,TAC20 Payables,5
+PAY0480,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total,TAC20 Payables,5
+PEN0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Present value of the defined benefit obligation at 1 April,TAC26 Pension,5
+PEN0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustment,TAC26 Pension,5
+PEN0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Present value of the defined benefit obligation at 1 April,TAC26 Pension,5
+PEN0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC26 Pension,5
+PEN0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption,TAC26 Pension,5
+PEN0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Current service cost,TAC26 Pension,5
+PAY0410,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Net defined benefit pension scheme liability,TAC20 Payables,5
+PAY0415,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: other liabilities,TAC20 Payables,5
+PAY0420,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total other non-current liabilities,TAC20 Payables,5
+PAY0425,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total other liabilities,TAC20 Payables,5
+PAY0430,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Derivatives and embedded derivatives held at 'fair value through income and expenditure',TAC20 Payables,5
+PAY0440,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other financial liabilities,TAC20 Payables,5
+PAY0450,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total,TAC20 Payables,5
+PAY0460,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Derivatives and embedded derivatives held at 'fair value through income and expenditure',TAC20 Payables,5
+PAY0362,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Deferred income: other (non-IFRS 15),TAC20 Payables,5
+PAY0365,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NHS charitable funds: other liabilities,TAC20 Payables,5
+PAY0370,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total other current liabilities,TAC20 Payables,5
+PAY0380,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Deferred income: contract liability (IFRS 15),TAC20 Payables,5
+PAY0385,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Deferred grants,TAC20 Payables,5
+PAY0390,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI: deferred income / credits,TAC20 Payables,5
+PAY0400,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Lease incentives,TAC20 Payables,5
+PAY0405,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Deferred income: other (non-IFRS 15),TAC20 Payables,5
+PEN0390,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest expense / income,TAC26 Pension,5
+PEN0400,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Past service cost,TAC26 Pension,5
+PEN0410,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Gains / (losses) on curtailment and settlement,TAC26 Pension,5
+PEN0420,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total net (charge)/gain recognised in SoCI,TAC26 Pension,5
+PFI0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Gross PFI, LIFT or other service concession SoFP obligation",TAC24 On-SoFP PFI,5
+PFI0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- not later than one year;,TAC24 On-SoFP PFI,5
+PFI0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- later than one year and not later than five years;,TAC24 On-SoFP PFI,5
+PFI0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- later than five years.,TAC24 On-SoFP PFI,5
+PEN0310,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Plan assets at fair value at 31 March,TAC26 Pension,5
+PEN0320,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Plan surplus/(deficit) at 31 March,TAC26 Pension,5
+PEN0330,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Present value of the defined benefit obligation,TAC26 Pension,5
+PEN0340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Plan assets at fair value,TAC26 Pension,5
+PEN0370,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Net defined benefit (obligation)/asset recognised in the SoFP at 31 March,TAC26 Pension,5
+PEN0372,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Fair value of any reimbursement right recognised as a separate asset on the SoFP,TAC26 Pension,5
+PEN0375,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total net (liability)/asset after the impact of reimbursement rights as at 31 March,TAC26 Pension,5
+PEN0380,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Current service cost,TAC26 Pension,5
+PEN0230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Actuarial gains/(losses),TAC26 Pension,5
+PEN0240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Changes in the effect of limiting a net defined benefit asset to the asset ceiling (excluding amounts included in interest income/expense),TAC26 Pension,5
+PEN0250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Contributions by the employer,TAC26 Pension,5
+PEN0260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Contributions by the plan participants,TAC26 Pension,5
+PEN0270,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Benefits paid,TAC26 Pension,5
+PEN0280,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Business combinations (transfers in/out),TAC26 Pension,5
+PEN0290,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Settlements,TAC26 Pension,5
+PEN0300,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transferred to NHS foundation trust upon authorisation as FT,TAC26 Pension,5
+PEN0150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Present value of the defined benefit obligation at 31 March,TAC26 Pension,5
+PEN0160,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Plan assets at fair value at 1 April,TAC26 Pension,5
+PEN0170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustment,TAC26 Pension,5
+PEN0180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Present value of plan assets at 1 April,TAC26 Pension,5
+PEN0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC26 Pension,5
+PEN0200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption,TAC26 Pension,5
+PEN0210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Interest income,TAC26 Pension,5
+PEN0220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- Return on plan assets (excludes any amounts already included in interest income above),TAC26 Pension,5
+PPE0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Additions - donations of physical assets (non-cash),TAC14 PPE,5
+PPE0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Additions - assets purchased from cash donations/grants,TAC14 PPE,5
+PPE0095,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer of donated assets (non-cash) from consolidated charitable fund to trust,TAC14 PPE,5
+PPE0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Impairments charged to operating expenses,TAC14 PPE,5
+PPE0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Valuation / gross cost at 1 April 2018 - brought forward,TAC14 PPE,5
+PPE0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustment,TAC14 PPE,5
+PPE0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Valuation / gross cost at 1 April 2018 - restated,TAC14 PPE,5
+PPE0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC14 PPE,5
+PPE0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption,TAC14 PPE,5
+PPE0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Additions - purchased  (including capital lifecycle additions),TAC14 PPE,5
+PPE0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Additions - leased / IFRIC 12 scheme assets (excluding lifecycle),TAC14 PPE,5
+PFI0130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- later than five years.,TAC24 On-SoFP PFI,5
+PFI0190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",PFI support income recognised in other operating income,TAC24 On-SoFP PFI,5
+PFI1000,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- not later than one year;,TAC25 Off-SoFP PFI,5
+PFI1010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- later than one year and not later than five years;,TAC25 Off-SoFP PFI,5
+PFI1020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- later than five years.,TAC25 Off-SoFP PFI,5
+PFI1030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total,TAC25 Off-SoFP PFI,5
+PFI1040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total charge to operating expenditure for off-SoFP schemes,TAC25 Off-SoFP PFI,5
+PFI1050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Number of schemes that the trust has (accounted for off-SoFP) as at 31 March 2020,TAC25 Off-SoFP PFI,5
+PFI0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Finance charges allocated to future periods,TAC24 On-SoFP PFI,5
+PFI0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Net PFI, LIFT or other service concession SoFP obligation",TAC24 On-SoFP PFI,5
+PFI0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- not later than one year;,TAC24 On-SoFP PFI,5
+PFI0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- later than one year and not later than five years;,TAC24 On-SoFP PFI,5
+PFI0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- later than five years.,TAC24 On-SoFP PFI,5
+PFI0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Total future payments committed in respect of PFI, LIFT or other service concession arrangements",TAC24 On-SoFP PFI,5
+PFI0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- not later than one year;,TAC24 On-SoFP PFI,5
+PFI0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",- later than one year and not later than five years;,TAC24 On-SoFP PFI,5
+STA0500,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Number of employees (WTE) engaged on capital projects,TAC09 Staff,5
+STA0400,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Healthcare assistants and other support staff,TAC09 Staff,5
+STA0410,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Nursing, midwifery and health visiting staff",TAC09 Staff,5
+STA0420,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Nursing, midwifery and health visiting learners",TAC09 Staff,5
+STA0430,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Scientific, therapeutic and technical staff",TAC09 Staff,5
+STA0440,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Healthcare science staff,TAC09 Staff,5
+STA0450,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Social care staff,TAC09 Staff,5
+STA0480,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other,TAC09 Staff,5
+STA0490,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total average numbers,TAC09 Staff,5
+STA0340,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Recoveries from DHSC Group bodies in respect of staff cost netted off expenditure,TAC09 Staff,5
+STA0350,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Recoveries from other bodies in respect of staff cost netted off expenditure,TAC09 Staff,5
+STA0360,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",TOTAL STAFF COSTS,TAC09 Staff,5
+STA0370,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Medical and dental,TAC09 Staff,5
+STA0380,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Ambulance staff,TAC09 Staff,5
+STA0390,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Administration and estates,TAC09 Staff,5
+BAL1220,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other assets,TAC03 SoFP,5
+BAL1230,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Non-current assets for sale and assets in disposal groups,TAC03 SoFP,5
+BAL1240,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Cash and cash equivalents,TAC03 SoFP,5
+BAL1250,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total current assets,TAC03 SoFP,5
+BAL1260,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Trade and other payables,TAC03 SoFP,5
+BAL1270,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Borrowings,TAC03 SoFP,5
+BAL1280,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other financial liabilities,TAC03 SoFP,5
+BAL1290,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Provisions,TAC03 SoFP,5
+BAL1130,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Investments in joint ventures and associates,TAC03 SoFP,5
+BAL1140,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other investments / financial assets,TAC03 SoFP,5
+BAL1150,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Receivables,TAC03 SoFP,5
+BAL1170,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other assets,TAC03 SoFP,5
+BAL1180,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Total non-current assets,TAC03 SoFP,5
+BAL1190,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Inventories,TAC03 SoFP,5
+BAL1200,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Receivables,TAC03 SoFP,5
+BAL1210,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Other investments / financial assets,TAC03 SoFP,5
+AHS0090,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Plus reversal of impairment of assets held for sale,TAC16 AHFS,5
+AHS0100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Less assets no longer classified as held for sale, for reasons other than disposal by sale",TAC16 AHFS,5
+AHS0110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfer to FT upon authorisation,TAC16 AHFS,5
+AHS0120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NBV of non-current assets for sale and assets in disposal groups at 31 March 2019,TAC16 AHFS,5
+BAL1100,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Intangible assets,TAC03 SoFP,5
+BAL1110,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24","Property, plant and equipment",TAC03 SoFP,5
+BAL1120,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Investment property,TAC03 SoFP,5
+AHS0010,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NBV of non-current assets for sale and assets in disposal groups at 1 April 2018,TAC16 AHFS,5
+AHS0020,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Prior period adjustment,TAC16 AHFS,5
+AHS0030,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",NBV of non-current assets for sale and assets in disposal groups at 1 April 2018 - restated,TAC16 AHFS,5
+AHS0040,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",At start of period for new FTs,TAC16 AHFS,5
+AHS0050,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Transfers by absorption,TAC16 AHFS,5
+AHS0060,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Plus assets classified as available for sale in the year,TAC16 AHFS,5
+AHS0070,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Less assets sold in year,TAC16 AHFS,5
+AHS0080,"2019-20, 2020-21, 2021-22, 2022-23, 2023-24",Less impairment of assets held for sale,TAC16 AHFS,5
+SCI1310,"2019-20, 2020-21, 2021-22, 2022-23",- Contingent finance costs,TAC11 Finance & other,4
+EXP0379,"2020-21, 2021-22, 2022-23, 2023-24",Inventories written down (consumables donated from DHSC group bodies for COVID response),TAC08 Op Exp,4
+SCI1300,"2019-20, 2020-21, 2021-22, 2022-23",- Main finance costs,TAC11 Finance & other,4
+FI0310,"2020-21, 2021-22, 2022-23, 2023-24",Trade and other payables (excluding non financial liabilities) - with NHS and DHSC bodies,TAC27 Fin Inst,4
+FI0320,"2020-21, 2021-22, 2022-23, 2023-24",Trade and other payables (excluding non financial liabilities) - with other bodies,TAC27 Fin Inst,4
+FI0330,"2020-21, 2021-22, 2022-23, 2023-24",Other financial liabilities,TAC27 Fin Inst,4
+FI0220,"2020-21, 2021-22, 2022-23, 2023-24",Receivables (excluding non financial assets) - with NHS and DHSC bodies,TAC27 Fin Inst,4
+FI0230,"2020-21, 2021-22, 2022-23, 2023-24",Receivables (excluding non financial assets) - with other bodies,TAC27 Fin Inst,4
+EXP0340,"2019-20, 2020-21, 2021-22, 2022-23",Operating lease expenditure (net),TAC08 Op Exp,4
+PPE0370,"2019-20, 2020-21, 2021-22, 2022-23",Finance leased,TAC14 PPE,4
+FI0260,"2020-21, 2021-22, 2022-23, 2023-24",Total assets,TAC27 Fin Inst,4
+FI0275,"2020-21, 2021-22, 2022-23, 2023-24",DHSC loans,TAC27 Fin Inst,4
+FI0340,"2020-21, 2021-22, 2022-23, 2023-24",IAS 37 provisions which are financial liabilities,TAC27 Fin Inst,4
+FI0345,"2020-21, 2021-22, 2022-23, 2023-24",Consolidated NHS charitable fund financial liabilities,TAC27 Fin Inst,4
+FI0350,"2020-21, 2021-22, 2022-23, 2023-24",Total liabilities,TAC27 Fin Inst,4
+EXP0155,"2020-21, 2021-22, 2022-23, 2023-24",Supplies and services – clinical: utilisation of consumables donated from DHSC group bodies for COVID response,TAC08 Op Exp,4
+FI0240,"2020-21, 2021-22, 2022-23, 2023-24",Other investments / financial assets,TAC27 Fin Inst,4
+FI0250,"2020-21, 2021-22, 2022-23, 2023-24",Cash and cash equivalents,TAC27 Fin Inst,4
+FI0255,"2020-21, 2021-22, 2022-23, 2023-24",Consolidated NHS Charitable fund financial assets,TAC27 Fin Inst,4
+FI0280,"2020-21, 2021-22, 2022-23, 2023-24",Other borrowings excluding finance lease and PFI liabilities,TAC27 Fin Inst,4
+FI0290,"2020-21, 2021-22, 2022-23, 2023-24",Obligations under finance leases,TAC27 Fin Inst,4
+FI0300,"2020-21, 2021-22, 2022-23, 2023-24","Obligations under PFI, LIFT and other service concession contracts",TAC27 Fin Inst,4
+OPE0270,"2019-20, 2020-21, 2021-22, 2022-23",- later than five years,TAC10 Op leases,4
+OPE0260,"2019-20, 2020-21, 2021-22, 2022-23",- later than one year and not later than five years,TAC10 Op leases,4
+OPE0210,"2019-20, 2020-21, 2021-22, 2022-23",Minimum lease payments,TAC10 Op leases,4
+OPE0240,"2019-20, 2020-21, 2021-22, 2022-23",Total in-year operating lease costs,TAC10 Op leases,4
+OPE0230,"2019-20, 2020-21, 2021-22, 2022-23",Sub-lease receipts,TAC10 Op leases,4
+OPE0220,"2019-20, 2020-21, 2021-22, 2022-23",Contingent rents,TAC10 Op leases,4
+OPE0250,"2019-20, 2020-21, 2021-22, 2022-23",- not later than one year,TAC10 Op leases,4
+REC0720,"2019-20, 2020-21, 2021-22, 2022-23",- not later than one year;,TAC18 Receivables,4
+REC0660,"2019-20, 2020-21, 2021-22, 2022-23",- not later than one year;,TAC18 Receivables,4
+REC0670,"2019-20, 2020-21, 2021-22, 2022-23",- later than one year and not later than five years;,TAC18 Receivables,4
+REC0740,"2019-20, 2020-21, 2021-22, 2022-23",- later than five years.,TAC18 Receivables,4
+REC0730,"2019-20, 2020-21, 2021-22, 2022-23",- later than one year and not later than five years;,TAC18 Receivables,4
+REC0710,"2019-20, 2020-21, 2021-22, 2022-23",Net land lease receivables,TAC18 Receivables,4
+REC0700,"2019-20, 2020-21, 2021-22, 2022-23",Allowance for uncollectable lease payments,TAC18 Receivables,4
+REC0680,"2019-20, 2020-21, 2021-22, 2022-23",- later than five years.,TAC18 Receivables,4
+REC0690,"2019-20, 2020-21, 2021-22, 2022-23",Unearned interest income,TAC18 Receivables,4
+OPE0290,"2019-20, 2020-21, 2021-22, 2022-23",Total future minimum sublease payments receivable,TAC10 Op leases,4
+REC0650,"2019-20, 2020-21, 2021-22, 2022-23",Gross land lease receivables,TAC18 Receivables,4
+OPE0280,"2019-20, 2020-21, 2021-22, 2022-23",Total,TAC10 Op leases,4
+OPE0010,"2019-20, 2020-21, 2021-22, 2022-23",Minimum lease receipts,TAC10 Op leases,4
+LSP0341,"2020-21, 2021-22, 2022-23, 2023-24",9. Extra statutory and regulatory,TAC29 Losses+SP,4
+LSP0331,"2020-21, 2021-22, 2022-23, 2023-24",8. Special severance payments,TAC29 Losses+SP,4
+OPE0050,"2019-20, 2020-21, 2021-22, 2022-23",- not later than one year,TAC10 Op leases,4
+OPE0060,"2019-20, 2020-21, 2021-22, 2022-23",- later than one year and not later than five years,TAC10 Op leases,4
+OPE0070,"2019-20, 2020-21, 2021-22, 2022-23",- later than five years,TAC10 Op leases,4
+OPE0080,"2019-20, 2020-21, 2021-22, 2022-23",Total,TAC10 Op leases,4
+OPE0030,"2019-20, 2020-21, 2021-22, 2022-23",Other,TAC10 Op leases,4
+OPE0040,"2019-20, 2020-21, 2021-22, 2022-23",Total in-year operating lease income,TAC10 Op leases,4
+LSP0321,"2020-21, 2021-22, 2022-23, 2023-24",7. Ex gratia payments,TAC29 Losses+SP,4
+INC1310A,"2020-21, 2021-22, 2022-23, 2023-24",Reimbursement and top up funding,TAC07 Op Inc 2,4
+INC1275,"2020-21, 2021-22, 2022-23, 2023-24",Contributions to expenditure - consumables (inventory) donated from DHSC group bodies for COVID response,TAC07 Op Inc 2,4
+LSP0311,"2020-21, 2021-22, 2022-23, 2023-24",6. Extra contractual to contractors,TAC29 Losses+SP,4
+INT0070,"2019-20, 2020-21, 2021-22, 2022-23",Additions - leased,TAC13 Intangibles,4
+INC1330B,"2019-20, 2020-21, 2021-22, 2022-23",Rental revenue from finance leases - other,TAC07 Op Inc 2,4
+LSP0301,"2020-21, 2021-22, 2022-23, 2023-24",5. Compensation under legal obligation,TAC29 Losses+SP,4
+BOR0080,"2019-20, 2020-21, 2021-22, 2022-23",Finance charges allocated to future periods,TAC21 Borrowings,4
+BOR0090,"2019-20, 2020-21, 2021-22, 2022-23",Net land lease liabilities,TAC21 Borrowings,4
+BOR0100,"2019-20, 2020-21, 2021-22, 2022-23",- not later than one year;,TAC21 Borrowings,4
+BOR0120,"2019-20, 2020-21, 2021-22, 2022-23",- later than five years.,TAC21 Borrowings,4
+INV0063,"2020-21, 2021-22, 2022-23, 2023-24",Additions (donated) - from NHS provider (purchased by provider) (unlocked on request),TAC17 Inventories,4
+INV0062,"2020-21, 2021-22, 2022-23, 2023-24",Additions (donated) - from NHS provider (purchased by DHSC),TAC17 Inventories,4
+INV0061,"2020-21, 2021-22, 2022-23, 2023-24",Additions (donated) - from DHSC,TAC17 Inventories,4
+BOR0350,"2019-20, 2020-21, 2021-22, 2022-23",Total of future minimum sublease payments to be received at the SoFP date,TAC21 Borrowings,4
+BOR0110,"2019-20, 2020-21, 2021-22, 2022-23",- later than one year and not later than five years;,TAC21 Borrowings,4
+BOR0070,"2019-20, 2020-21, 2021-22, 2022-23",- later than five years.,TAC21 Borrowings,4
+STA0365,"2020-21, 2021-22, 2022-23, 2023-24",Costs capitalised as part of assets,TAC09 Staff,4
+PAY0035,"2020-21, 2021-22, 2022-23, 2023-24",Annual leave accrual,TAC20 Payables,4
+INC0231,"2020-21, 2021-22, 2022-23, 2023-24",Block contract / system envelope income,TAC06 Op Inc 1,4
+INC0198,"2020-21, 2021-22, 2022-23, 2023-24",Block contract / system envelope income,TAC06 Op Inc 1,4
+INC0302,"2020-21, 2021-22, 2022-23, 2023-24",Block contract / system envelope income,TAC06 Op Inc 1,4
+OPE0020,"2019-20, 2020-21, 2021-22, 2022-23",Contingent rents,TAC10 Op leases,4
+BOR0040,"2019-20, 2020-21, 2021-22, 2022-23",Gross land lease liabilities,TAC21 Borrowings,4
+BOR0060,"2019-20, 2020-21, 2021-22, 2022-23",- later than one year and not later than five years;,TAC21 Borrowings,4
+BOR0050,"2019-20, 2020-21, 2021-22, 2022-23",- not later than one year;,TAC21 Borrowings,4
+STA0366,"2020-21, 2021-22, 2022-23, 2023-24",Total employee benefits excl. capitalised costs,TAC09 Staff,4
+OPE0320,"2019-20, 2020-21, 2021-22",- later than five years,TAC10 Op leases,3
+OPE0410,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC10 Op leases,3
+OPE0440,"2019-20, 2020-21, 2021-22",TOTAL of future minimum sublease lease payments to be received at the balance sheet date,TAC10 Op leases,3
+SCI1100,"2019-20, 2020-21, 2021-22","Gains on disposal of property, plant and equipment",TAC11 Finance & other,3
+IGR0200,"2019-20, 2020-21, 2021-22",Prior period adjustments,TAC15 Investments & groups,3
+IGR0190,"2019-20, 2020-21, 2021-22",Carrying value at 1 April,TAC15 Investments & groups,3
+SCI1150A,"2021-22, 2022-23, 2023-24",Loss recognised on return of donated COVID assets to DHSC,TAC11 Finance & other,3
+SCI1150,"2019-20, 2020-21, 2021-22","Losses on disposal of property, plant and equipment",TAC11 Finance & other,3
+OPE0190,"2019-20, 2020-21, 2021-22",- later than five years.,TAC10 Op leases,3
+OTD0440,"2021-22, 2022-23, 2023-24",Plus: Loss on disposal of donated/granted assets,TAC28 Disclosures,3
+PPE0415,"2020-21, 2021-22, 2022-23",Owned - equipment donated from DHSC and NHSE for COVID response,TAC14 PPE,3
+EXP0165B,"2020-21, 2021-22, 2022-23",Supplies and services - general: notional cost of equipment donated from NHSE for COVID response below capitalisation threshold,TAC08 Op Exp,3
+EXP0102,"2021-22, 2022-23, 2023-24",Mental health collaboratives (lead provider) - purchase of healthcare from NHS bodies,TAC08 Op Exp,3
+EXP0112,"2021-22, 2022-23, 2023-24",Mental health collaboratives (lead provider) - purchase of healthcare from non-NHS bodies,TAC08 Op Exp,3
+EXP0165A,"2020-21, 2021-22, 2022-23",Supplies and services - general: notional cost of equipment donated from DHSC for COVID response below capitalisation threshold,TAC08 Op Exp,3
+PPE0335,"2021-22, 2022-23, 2023-24",Derecognition - COVID equipment returned to DHSC,TAC14 PPE,3
+BOR0130,"2019-20, 2020-21, 2021-22",Gross buildings lease liabilities,TAC21 Borrowings,3
+BOR0140,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC21 Borrowings,3
+BOR0150,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC21 Borrowings,3
+BOR0230,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC21 Borrowings,3
+BOR0220,"2019-20, 2020-21, 2021-22",Gross other lease liabilities,TAC21 Borrowings,3
+BOR0210,"2019-20, 2020-21, 2021-22",- later than five years.,TAC21 Borrowings,3
+OPE0310,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years,TAC10 Op leases,3
+OPE0420,"2019-20, 2020-21, 2021-22",- later than five years.,TAC10 Op leases,3
+OPE0430,"2019-20, 2020-21, 2021-22",TOTAL,TAC10 Op leases,3
+OPE0400,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC10 Op leases,3
+OPE0300,"2019-20, 2020-21, 2021-22",- not later than one year,TAC10 Op leases,3
+OPE0330,"2019-20, 2020-21, 2021-22",Total,TAC10 Op leases,3
+BOR0190,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC21 Borrowings,3
+BOR0170,"2019-20, 2020-21, 2021-22",Finance charges allocated to future periods,TAC21 Borrowings,3
+BOR0200,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC21 Borrowings,3
+BOR0160,"2019-20, 2020-21, 2021-22",- later than five years.,TAC21 Borrowings,3
+BOR0180,"2019-20, 2020-21, 2021-22",Net buildings lease liabilities,TAC21 Borrowings,3
+SFP0620,"2019-20, 2020-21, 2021-22",Revolving working capital facilities,TAC21 Borrowings,3
+SFP0690,"2019-20, 2020-21, 2021-22",Revolving working capital facilities,TAC21 Borrowings,3
+RER0130,"2019-20, 2020-21, 2021-22",Transfer to FT upon authorisation,TAC23 Reval Res,3
+RER0120,"2019-20, 2020-21, 2021-22",Other reserve movements,TAC23 Reval Res,3
+RER0110,"2019-20, 2020-21, 2021-22",Other recognised gains and losses,TAC23 Reval Res,3
+RER0100,"2019-20, 2020-21, 2021-22",Transfer to I&E reserve upon asset disposal,TAC23 Reval Res,3
+RER0090,"2019-20, 2020-21, 2021-22",Transfers to other reserves,TAC23 Reval Res,3
+RER0080,"2019-20, 2020-21, 2021-22",Transfers to the I&E reserve for impairments arising from consumption of economic benefits,TAC23 Reval Res,3
+REC0800,"2019-20, 2020-21, 2021-22",Allowance for uncollectable lease payments,TAC18 Receivables,3
+REC0810,"2019-20, 2020-21, 2021-22",Net buildings lease receivables,TAC18 Receivables,3
+REC0870,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC18 Receivables,3
+REC0880,"2019-20, 2020-21, 2021-22",- later than five years.,TAC18 Receivables,3
+REC0890,"2019-20, 2020-21, 2021-22",Unearned interest income,TAC18 Receivables,3
+REC0750,"2019-20, 2020-21, 2021-22",Gross buildings lease receivables,TAC18 Receivables,3
+REC0760,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC18 Receivables,3
+REC0770,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC18 Receivables,3
+REC0780,"2019-20, 2020-21, 2021-22",- later than five years.,TAC18 Receivables,3
+REC0790,"2019-20, 2020-21, 2021-22",Unearned interest income,TAC18 Receivables,3
+REC0830,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC18 Receivables,3
+REC0860,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC18 Receivables,3
+REC0850,"2019-20, 2020-21, 2021-22",Gross other lease receivables,TAC18 Receivables,3
+REC0840,"2019-20, 2020-21, 2021-22",- later than five years.,TAC18 Receivables,3
+REC0970,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC18 Receivables,3
+REC0820,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC18 Receivables,3
+REC0960,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC18 Receivables,3
+OPE0200,"2019-20, 2020-21, 2021-22",TOTAL,TAC10 Op leases,3
+OPE0350,"2019-20, 2020-21, 2021-22",- not later than one year,TAC10 Op leases,3
+OPE0340,"2019-20, 2020-21, 2021-22",Total future minimum sublease payments receivable,TAC10 Op leases,3
+REC0900,"2019-20, 2020-21, 2021-22",Allowance for uncollectable lease payments,TAC18 Receivables,3
+REC0910,"2019-20, 2020-21, 2021-22",Net other lease receivables,TAC18 Receivables,3
+REC0920,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC18 Receivables,3
+REC0930,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC18 Receivables,3
+REC0940,"2019-20, 2020-21, 2021-22",- later than five years.,TAC18 Receivables,3
+REC0950,"2019-20, 2020-21, 2021-22",Total net lease receivables,TAC18 Receivables,3
+OPE0370,"2019-20, 2020-21, 2021-22",- later than five years,TAC10 Op leases,3
+OPE0360,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years,TAC10 Op leases,3
+OPE0390,"2019-20, 2020-21, 2021-22",Total future minimum sublease payments receivable,TAC10 Op leases,3
+OPE0380,"2019-20, 2020-21, 2021-22",Total,TAC10 Op leases,3
+IGR0370,"2019-20, 2020-21, 2021-22",Carrying value at 1 April  - restated,TAC15 Investments & groups,3
+IGR0360,"2019-20, 2020-21, 2021-22",Prior period adjustments,TAC15 Investments & groups,3
+IGR0350,"2019-20, 2020-21, 2021-22",Carrying value at 1 April,TAC15 Investments & groups,3
+IGR0380,"2019-20, 2020-21, 2021-22",At start of period for new FTs,TAC15 Investments & groups,3
+IGR0260,"2019-20, 2020-21, 2021-22",Impairments,TAC15 Investments & groups,3
+IGR0250,"2019-20, 2020-21, 2021-22",Share of profit/(loss),TAC15 Investments & groups,3
+IGR0240,"2019-20, 2020-21, 2021-22",Additions,TAC15 Investments & groups,3
+RER0150,"2019-20, 2020-21, 2021-22",Revaluation reserve at 31 March 2019,TAC23 Reval Res,3
+RER0030,"2019-20, 2020-21, 2021-22",Revaluation reserve at 1 April 2018 - restated,TAC23 Reval Res,3
+REC0980,"2019-20, 2020-21, 2021-22",- later than five years.,TAC18 Receivables,3
+RER0010,"2019-20, 2020-21, 2021-22",Revaluation reserve at 1 April 2018,TAC23 Reval Res,3
+RER0020,"2019-20, 2020-21, 2021-22",Prior period adjustment,TAC23 Reval Res,3
+IGR0410,"2019-20, 2020-21, 2021-22",Fair value gains [taken to I&E] (for assets held at FV through I&E),TAC15 Investments & groups,3
+IGR0420,"2019-20, 2020-21, 2021-22",Fair value losses [taken to I&E] (for assets held at FV through I&E),TAC15 Investments & groups,3
+IGR0430,"2019-20, 2020-21, 2021-22",Fair value movements [taken to OCI] (for financial assets mandated as FV through OCI),TAC15 Investments & groups,3
+IGR0435,"2019-20, 2020-21, 2021-22",Fair value movements [taken to OCI] (for equity instruments designated as FV through OCI),TAC15 Investments & groups,3
+IGR0439,"2019-20, 2020-21, 2021-22",(Increase)/decrease in credit loss allowance (stages 1 and 2),TAC15 Investments & groups,3
+RER0040,"2019-20, 2020-21, 2021-22",At start of period for new FTs,TAC23 Reval Res,3
+RER0050,"2019-20, 2020-21, 2021-22",Transfers by absorption,TAC23 Reval Res,3
+RER0060,"2019-20, 2020-21, 2021-22",Net impairments,TAC23 Reval Res,3
+RER0070,"2019-20, 2020-21, 2021-22",Revaluations,TAC23 Reval Res,3
+IGR0460,"2019-20, 2020-21, 2021-22",Transfers to/from assets held for sale and assets in disposal groups,TAC15 Investments & groups,3
+IGR0470,"2019-20, 2020-21, 2021-22",Amortisation at the effective interest rate (assets held at amortised cost only where applicable),TAC15 Investments & groups,3
+IGR0475,"2019-20, 2020-21, 2021-22",Current portion of loans receivable transferred to current financial assets,TAC15 Investments & groups,3
+IGR0480,"2019-20, 2020-21, 2021-22",Disposals,TAC15 Investments & groups,3
+IGR0490,"2019-20, 2020-21, 2021-22",Transfer to FT upon authorisation,TAC15 Investments & groups,3
+IGR0390,"2019-20, 2020-21, 2021-22",Transfers by absorption,TAC15 Investments & groups,3
+IGR0400,"2019-20, 2020-21, 2021-22",Additions,TAC15 Investments & groups,3
+OPE0090,"2019-20, 2020-21, 2021-22",- not later than one year,TAC10 Op leases,3
+OPE0100,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years,TAC10 Op leases,3
+OPE0110,"2019-20, 2020-21, 2021-22",- later than five years,TAC10 Op leases,3
+OPE0120,"2019-20, 2020-21, 2021-22",Total,TAC10 Op leases,3
+IGR0505,"2019-20, 2020-21, 2021-22",Loans receivable within 12 months transferred from non-current financial assets,TAC15 Investments & groups,3
+IGR0500,"2019-20, 2020-21, 2021-22",Carrying value at 31 March,TAC15 Investments & groups,3
+INC0332,"2019-20, 2022-23, 2023-24",AfC pay award central funding (comparative only),TAC06 Op Inc 1,3
+INC0331,"2021-22, 2022-23, 2023-24",Elective recovery fund,TAC06 Op Inc 1,3
+IGR0220,"2019-20, 2020-21, 2021-22",At start of period for new FTs,TAC15 Investments & groups,3
+IGR0210,"2019-20, 2020-21, 2021-22",Carrying value at 1 April  - restated,TAC15 Investments & groups,3
+INC0236,"2021-22, 2022-23, 2023-24",Income for commissioning services from other providers as a mental health collaborative lead provider,TAC06 Op Inc 1,3
+IGR0230,"2019-20, 2020-21, 2021-22",Transfers by absorption,TAC15 Investments & groups,3
+INC0235,"2021-22, 2022-23, 2023-24",Services delivered as part of a mental health collaborative,TAC06 Op Inc 1,3
+IGR0510,"2019-20, 2020-21, 2021-22",NLF deposits (where not considered to be cash equivalents),TAC15 Investments & groups,3
+IGR0515,"2019-20, 2020-21, 2021-22",Other current financial assets,TAC15 Investments & groups,3
+IGR0520,"2019-20, 2020-21, 2021-22",Total current investments / financial assets at 31 March,TAC15 Investments & groups,3
+IGR0300,"2019-20, 2020-21, 2021-22",Disposals,TAC15 Investments & groups,3
+IGR0290,"2019-20, 2020-21, 2021-22",Disbursements / dividends received,TAC15 Investments & groups,3
+IGR0280,"2019-20, 2020-21, 2021-22",Transfers to/from assets held for sale and assets in disposal groups,TAC15 Investments & groups,3
+IGR0310,"2019-20, 2020-21, 2021-22",Share of Other Comprehensive Income recognised by joint ventures/associates,TAC15 Investments & groups,3
+IGR0270,"2019-20, 2020-21, 2021-22",Reversal of impairment,TAC15 Investments & groups,3
+IGR0440,"2019-20, 2020-21, 2021-22",Net impairments on credit impaired financial assets (stage 3 credit losses),TAC15 Investments & groups,3
+IGR0320,"2019-20, 2020-21, 2021-22",Other equity movements (translation gains/losses),TAC15 Investments & groups,3
+IGR0330,"2019-20, 2020-21, 2021-22",Transfer to FT upon authorisation,TAC15 Investments & groups,3
+IGR0340,"2019-20, 2020-21, 2021-22",Carrying value at 31 March,TAC15 Investments & groups,3
+INC1255B,"2020-21, 2021-22, 2022-23",Donated equipment from NHSE for COVID response (non-cash),TAC07 Op Inc 2,3
+INV0060A,"2021-22, 2022-23, 2023-24",Additions (donated),TAC17 Inventories,3
+INC1340,"2019-20, 2020-21, 2021-22",Rental revenue from operating leases,TAC07 Op Inc 2,3
+INC1274B,"2020-21, 2021-22, 2022-23",Contributions to expenditure - receipt of equipment donated from NHSE for COVID response below capitalisation threshold,TAC07 Op Inc 2,3
+SCE0032,"2019-20, 2022-23, 2023-24",Impact of implementing IFRS 9 on opening reserves,TAC04 SOCIE,3
+INC1274A,"2020-21, 2021-22, 2022-23",Contributions to expenditure - receipt of equipment donated from DHSC for COVID response below capitalisation threshold,TAC07 Op Inc 2,3
+INC1255A,"2020-21, 2021-22, 2022-23",Donated equipment from DHSC for COVID response (non-cash),TAC07 Op Inc 2,3
+OPE0180,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC10 Op leases,3
+OPE0150,"2019-20, 2020-21, 2021-22",- later than five years,TAC10 Op leases,3
+OPE0160,"2019-20, 2020-21, 2021-22",Total,TAC10 Op leases,3
+OPE0130,"2019-20, 2020-21, 2021-22",- not later than one year,TAC10 Op leases,3
+OPE0140,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years,TAC10 Op leases,3
+OPE0170,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC10 Op leases,3
+BOR0430,"2019-20, 2020-21, 2021-22",Contingent rents recognised as expenditure in the period (where the provider is a lessee),TAC21 Borrowings,3
+BOR0400,"2019-20, 2020-21, 2021-22",The unguaranteed residual value accruing to the provider (where the provider is a lessor),TAC21 Borrowings,3
+BOR0320,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC21 Borrowings,3
+BOR0330,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC21 Borrowings,3
+BOR0340,"2019-20, 2020-21, 2021-22",- later than five years.,TAC21 Borrowings,3
+BOR0240,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC21 Borrowings,3
+BOR0250,"2019-20, 2020-21, 2021-22",- later than five years.,TAC21 Borrowings,3
+BOR0420,"2019-20, 2020-21, 2021-22",Contingent rents recognised as income in the period (where the provider is a lessor),TAC21 Borrowings,3
+BOR0410,"2019-20, 2020-21, 2021-22",The accumulated allowance for uncollectable minimum lease payments receivable (where the provider is a lessor),TAC21 Borrowings,3
+BOR0310,"2019-20, 2020-21, 2021-22",Total net lease liabilities,TAC21 Borrowings,3
+BOR0280,"2019-20, 2020-21, 2021-22",- not later than one year;,TAC21 Borrowings,3
+BOR0270,"2019-20, 2020-21, 2021-22",Net other lease liabilities,TAC21 Borrowings,3
+BOR0260,"2019-20, 2020-21, 2021-22",Finance charges allocated to future periods,TAC21 Borrowings,3
+BOR0290,"2019-20, 2020-21, 2021-22",- later than one year and not later than five years;,TAC21 Borrowings,3
+PPE0085,"2020-21, 2021-22, 2022-23",Additions - equipment donated from DHSC for COVID response (non-cash),TAC14 PPE,3
+PPE0086,"2020-21, 2021-22, 2022-23",Additions - equipment donated from NHSE for COVID response (non-cash),TAC14 PPE,3
+BOR0300,"2019-20, 2020-21, 2021-22",- later than five years.,TAC21 Borrowings,3
+PPE0175,"2021-22, 2022-23, 2023-24",Derecognition - COVID equipment returned to DHSC,TAC14 PPE,3
+STA0620,"2019-20, 2020-21, 2021-22",">£200,000",TAC09 Staff,3
+STA0610,"2019-20, 2020-21, 2021-22","£150,001 - £200,000",TAC09 Staff,3
+STA0630,"2019-20, 2020-21, 2021-22",Total,TAC09 Staff,3
+STA0560,"2019-20, 2020-21, 2021-22","<£10,000",TAC09 Staff,3
+STA0570,"2019-20, 2020-21, 2021-22","£10,000 - £25,000",TAC09 Staff,3
+STA0580,"2019-20, 2020-21, 2021-22","£25,001 - £50,000",TAC09 Staff,3
+STA0590,"2019-20, 2020-21, 2021-22","£50,001 - £100,000",TAC09 Staff,3
+STA0600,"2019-20, 2020-21, 2021-22","£100,001 - £150,000",TAC09 Staff,3
+BAL1115,"2022-23, 2023-24",Right of use assets,TAC03 SoFP,2
+PPE0097,"2022-23, 2023-24",Additions - assets re-recognised at the end of an external to government finance lease (trust was lessor),TAC14 PPE,2
+PPE0096,"2022-23, 2023-24",Additions - assets re-recognised at the end of an intra-government finance lease (trust was lessor),TAC14 PPE,2
+SCF0216A,"2022-23, 2023-24",Initial direct costs or up front payments in respect of new right of use assets (lessee),TAC05 SoCF,2
+SCE0031,"2019-20, 2023-24",Impact of implementing IFRS 15 on opening reserves,TAC04 SOCIE,2
+PPE0035,"2022-23, 2023-24",Reclassification of existing finance leased assets to right of use assets on 1 April 2022,TAC14 PPE,2
+PPE0332,"2022-23, 2023-24",Disposals - new finance lease (lessor),TAC14 PPE,2
+PPE0311,"2022-23, 2023-24",Reclassifications from RoU assets where ownership has transferred,TAC14 PPE,2
+PPE0225,"2022-23, 2023-24",Reclassification of existing finance leased assets to right of use assets on 1 April 2022,TAC14 PPE,2
+PPE0172,"2022-23, 2023-24",Disposals - new finance lease (lessor),TAC14 PPE,2
+PPE0151,"2022-23, 2023-24",Reclassifications from RoU assets where ownership has transferred,TAC14 PPE,2
+OTD0031,"2022-23, 2023-24",Commitments for leases not yet commenced to which the Trust is contractually committed,TAC28 Disclosures,2
+PAY0085,"2022-23, 2023-24",Pension contributions payable,TAC20 Payables,2
+BOR0301,"2020-21, 2021-22",Total gross lease liabilities,TAC21 Borrowings,2
+INT0035,"2022-23, 2023-24",Reclassification of existing finance leased assets to right of use assets on 1 April 2022,TAC13 Intangibles,2
+BOR0305,"2020-21, 2021-22",Finance charges allocated to future periods,TAC21 Borrowings,2
+BOR0304,"2020-21, 2021-22",- later than five years.,TAC21 Borrowings,2
+BOR0303,"2020-21, 2021-22",- later than one year and not later than five years;,TAC21 Borrowings,2
+BOR0302,"2020-21, 2021-22",- not later than one year;,TAC21 Borrowings,2
+INT0225,"2022-23, 2023-24",Reclassification of existing finance leased assets to right of use assets on 1 April 2022,TAC13 Intangibles,2
+SCE0112,"2022-23, 2023-24",Revaluations - right of use assets,TAC04 SOCIE,2
+INC1250C,"2022-23, 2023-24",Peppercorn leased assets recognised,TAC07 Op Inc 2,2
+INC1310,"2019-20, 2020-21",Provider sustainability fund / Financial recovery fund / Marginal rate emergency tariff funding (PSF/FRF/MRET),TAC07 Op Inc 2,2
+LSP0310,"2019-20, 2020-21",6. Extra contractual to contractors,TAC29 Losses+SP,2
+INV0110,"2022-23, 2023-24",Other,TAC17 Inventories,2
+LSP0300,"2019-20, 2020-21",5. Compensation under legal obligation,TAC29 Losses+SP,2
+LSP0330,"2019-20, 2020-21",8. Special severance payments,TAC29 Losses+SP,2
+ROU0360,"2022-23, 2023-24",Net book value at 31 March 2023,TAC14A RoU Assets,2
+ROU0350,"2022-23, 2023-24",Accumulated depreciation at 31 March 2023,TAC14A RoU Assets,2
+ROU0336,"2022-23, 2023-24",Disposals/derecognition - new peppercorn sublease (ext to government),TAC14A RoU Assets,2
+ROU0335,"2022-23, 2023-24",Disposals/derecognition - new peppercorn sublease (intra-government),TAC14A RoU Assets,2
+ROU0334,"2022-23, 2023-24",Disposals/derecognition - new sublease (leased to external to government),TAC14A RoU Assets,2
+ROU0333,"2022-23, 2023-24",Disposals/derecognition - new sublease (leased to intra-government body),TAC14A RoU Assets,2
+ROU0332,"2022-23, 2023-24",Disposals/derecognition - peppercorn lease termination,TAC14A RoU Assets,2
+INC1340A,"2022-23, 2023-24",Operating leases - minimum lease receipts,TAC07 Op Inc 2,2
+INC1340B,"2022-23, 2023-24",Operating leases - variable lease receipts,TAC07 Op Inc 2,2
+INC1115,"2022-23, 2023-24",Integrated care boards,TAC06 Op Inc 1,2
+LSP0320,"2019-20, 2020-21",7. Ex gratia payments,TAC29 Losses+SP,2
+SCF0216B,"2022-23, 2023-24",Receipt of cash lease incentives (lessee),TAC05 SoCF,2
+LSP0340,"2019-20, 2020-21",9. Extra statutory and regulatory,TAC29 Losses+SP,2
+ROU0270,"2022-23, 2023-24",Impairments charged to the revaluation reserve,TAC14A RoU Assets,2
+ROU0260,"2022-23, 2023-24",Impairments charged to operating expenses,TAC14A RoU Assets,2
+ROU0290,"2022-23, 2023-24",Reversal of impairments credited to the revaluation reserve,TAC14A RoU Assets,2
+ROU0251,"2022-23, 2023-24",Provided during the year - peppercorn leased asset,TAC14A RoU Assets,2
+ROU0250,"2022-23, 2023-24",Provided during the year - right of use asset,TAC14A RoU Assets,2
+ROU0230,"2022-23, 2023-24",At start of period for new FTs,TAC14A RoU Assets,2
+ROU0240,"2022-23, 2023-24",Transfers by absorption,TAC14A RoU Assets,2
+ROU0226,"2022-23, 2023-24",Derecognition of right of use assets for subleases reassessed as finance leases on initial application of IFRS 16 on 1 April 2022,TAC14A RoU Assets,2
+ROU0225,"2022-23, 2023-24",Reclassification of existing finance leased assets to right of use assets on 1 April 2022,TAC14A RoU Assets,2
+ROU0200,"2022-23, 2023-24",Accumulated depreciation at 1 April 2022 - brought forward,TAC14A RoU Assets,2
+ROU0190,"2022-23, 2023-24",Valuation/gross cost at 31 March 2023,TAC14A RoU Assets,2
+ROU0176,"2022-23, 2023-24",Disposals/derecognition - new peppercorn sublease (ext to government),TAC14A RoU Assets,2
+ROU0175,"2022-23, 2023-24",Disposals/derecognition - new peppercorn sublease (intra-government),TAC14A RoU Assets,2
+ROU0174,"2022-23, 2023-24",Disposals/derecognition - new sublease (leased to external to government),TAC14A RoU Assets,2
+ROU0173,"2022-23, 2023-24",Disposals/derecognition - new sublease (leased to intra-government body),TAC14A RoU Assets,2
+ROU0172,"2022-23, 2023-24",Disposals/derecognition - peppercorn lease termination,TAC14A RoU Assets,2
+ROU0171,"2022-23, 2023-24",Disposals/derecognition - lease termination,TAC14A RoU Assets,2
+ROU0151,"2022-23, 2023-24",Reclassifications to PPE where ownership has transferred,TAC14A RoU Assets,2
+ROU0150,"2022-23, 2023-24",Reclassifications,TAC14A RoU Assets,2
+ROU0145,"2022-23, 2023-24",Remeasurements - retranslation gains / (losses) on foreign operations,TAC14A RoU Assets,2
+ROU0140,"2022-23, 2023-24",Revaluations,TAC14A RoU Assets,2
+ROU0130,"2022-23, 2023-24",Reversal of impairments credited to the revaluation reserve,TAC14A RoU Assets,2
+ROU0120,"2022-23, 2023-24",Reversal of impairments credited to operating expenses,TAC14A RoU Assets,2
+ROU0110,"2022-23, 2023-24",Impairments charged to the revaluation reserve,TAC14A RoU Assets,2
+ROU0100,"2022-23, 2023-24",Impairments charged to operating expenses,TAC14A RoU Assets,2
+SCF0227,"2022-23, 2023-24",Finance lease receipts (principal and interest),TAC05 SoCF,2
+SCF0216C,"2022-23, 2023-24",Lease termination fees paid (lessee),TAC05 SoCF,2
+PRO0066,"2022-23, 2023-24",Lease dilapidations - amounts capitalised under IFRS 16,TAC22 Provisions,2
+OTD0410,"2022-23, 2023-24",Right of use assets,TAC28 Disclosures,2
+PRO0065,"2021-22, 2022-23",Lease dilapidations,TAC22 Provisions,2
+SCI1230,"2019-20, 2020-21",- Revolving working capital facilities,TAC11 Finance & other,2
+EXP0340C,"2022-23, 2023-24",Lease expenditure - variable lease payments not included in the liability,TAC08 Op Exp,2
+SCI1150B,"2022-23, 2023-24","Losses on disposal of property, plant and equipment (sale or other derecognition)",TAC11 Finance & other,2
+SCI1150C,"2022-23, 2023-24",Losses on disposal of PPE from creation of a finance lease (lessor),TAC11 Finance & other,2
+SCI1165A,"2022-23, 2023-24",Losses on disposal of right of use assets (creation of a sublease),TAC11 Finance & other,2
+SCI1165B,"2022-23, 2023-24",Losses on disposal of right of use assets (lease termination - lessee),TAC11 Finance & other,2
+SCI1191,"2022-23, 2023-24","Losses on disposal of peppercorn leased assets (new peppercorn lease as lessor, terminated peppercorn lease as lessee)",TAC11 Finance & other,2
+OTD0032,"2022-23, 2023-24",Variable lease payments (not dependent on an index or rate),TAC28 Disclosures,2
+OTD0033,"2022-23, 2023-24",Extension options and termination options (not reasonably certain to be exercised),TAC28 Disclosures,2
+OTD0035,"2022-23, 2023-24",Other,TAC28 Disclosures,2
+OTD0034,"2022-23, 2023-24",Residual value guarantees,TAC28 Disclosures,2
+OTD0039,"2022-23, 2023-24",Total,TAC28 Disclosures,2
+OTD0360,"2022-23, 2023-24",Right of use assets,TAC28 Disclosures,2
+EXP0270C,"2022-23, 2023-24",Movement in credit loss allowance: finance lease receivables,TAC08 Op Exp,2
+EXP0340D,"2022-23, 2023-24",Lease expenditure - irrecoverable VAT (map to premises costs in accounts),TAC08 Op Exp,2
+EXP0340B,"2022-23, 2023-24","Lease expenditure - low value assets (<£5k, excluding short term leases)",TAC08 Op Exp,2
+EXP0340A,"2022-23, 2023-24",Lease expenditure - short term leases (<= 12 months),TAC08 Op Exp,2
+ROU0097,"2022-23, 2023-24",Dilapidation provisions arising (capitalised in RoU asset),TAC14A RoU Assets,2
+ROU0098,"2022-23, 2023-24",Dilapidation provisions reversed unused,TAC14A RoU Assets,2
+ROU0099,"2022-23, 2023-24",Dilapidation provisions - change in discount rate,TAC14A RoU Assets,2
+REC0119,"2022-23, 2023-24",Finance lease receivables - invoiced / due but not yet paid (included in AoB),TAC18 Receivables,2
+REC0295,"2022-23, 2023-24",Operating lease receivables,TAC18 Receivables,2
+REC0125,"2022-23, 2023-24",Operating lease receivables,TAC18 Receivables,2
+IGR0035,"2022-23, 2023-24",Recognition of right of use assets for existing operating leases on initial application of IFRS 16 on 1 April 2022,TAC15 Investments & groups,2
+ROU0280,"2022-23, 2023-24",Reversal of impairments credited to operating expenses,TAC14A RoU Assets,2
+ROU0305,"2022-23, 2023-24",Remeasurements - retranslation gains / (losses) on foreign operations,TAC14A RoU Assets,2
+ROU0300,"2022-23, 2023-24",Revaluations,TAC14A RoU Assets,2
+ROU0310,"2022-23, 2023-24",Reclassifications,TAC14A RoU Assets,2
+ROU0311,"2022-23, 2023-24",Reclassifications to PPE where ownership has transferred,TAC14A RoU Assets,2
+IGR0065,"2022-23, 2023-24",Capitalised dilapidation provisions,TAC15 Investments & groups,2
+ROU0331,"2022-23, 2023-24",Disposals/derecognition - lease termination,TAC14A RoU Assets,2
+FIN0133,"2022-23, 2023-24",Gains/(losses) on remeasurement of finance lease receivables (lessor),TAC11 Finance & other,2
+FIN0134,"2022-23, 2023-24",Gains/(losses) on termination of finance leases (lessor),TAC11 Finance & other,2
+ROU0010,"2022-23, 2023-24",Valuation / gross cost at 1 April 2022 - brought forward,TAC14A RoU Assets,2
+IGR0034,"2022-23, 2023-24",Reclassification of existing finance leased assets classified as investment property on 1 April 2022,TAC15 Investments & groups,2
+ROU0035,"2022-23, 2023-24",Reclassification of existing finance leased assets to right of use assets on 1 April 2022,TAC14A RoU Assets,2
+ROU0036,"2022-23, 2023-24",Recognition of right of use assets for existing operating leases on initial application of IFRS 16 on 1 April 2022,TAC14A RoU Assets,2
+ROU0070,"2022-23, 2023-24",Additions - lease liability,TAC14A RoU Assets,2
+ROU0037,"2022-23, 2023-24",Derecognition of right of use assets for subleases reassessed as finance leases on initial application of IFRS 16 on 1 April 2022,TAC14A RoU Assets,2
+ROU0040,"2022-23, 2023-24",At start of period for new FTs,TAC14A RoU Assets,2
+ROU0050,"2022-23, 2023-24",Transfers by absorption,TAC14A RoU Assets,2
+ROU0072,"2022-23, 2023-24",Additions - initial direct costs of obtaining a lease,TAC14A RoU Assets,2
+ROU0071,"2022-23, 2023-24",Additions - up front lease payments (before or on commencement),TAC14A RoU Assets,2
+ROU0073,"2022-23, 2023-24",Additions - cash lease incentives (reduce the RoU addition value),TAC14A RoU Assets,2
+ROU0080,"2022-23, 2023-24",Additions - peppercorn leases,TAC14A RoU Assets,2
+IGR0062,"2022-23, 2023-24",Remeasurements of the lease liability,TAC15 Investments & groups,2
+ROU0081,"2022-23, 2023-24",Re-recognition of RoU asset at end of sublease - intra-gov sublease,TAC14A RoU Assets,2
+ROU0082,"2022-23, 2023-24",Re-recognition of RoU asset at end of sublease - ext to gov sublease,TAC14A RoU Assets,2
+ROU0096,"2022-23, 2023-24",Remeasurements of the lease liability,TAC14A RoU Assets,2
+SCI1115A,"2022-23, 2023-24",Gains on disposal of right of use assets (creation of a sublease),TAC11 Finance & other,2
+SCI1100B,"2022-23, 2023-24",Gains on disposal of PPE from creation of a finance lease (lessor),TAC11 Finance & other,2
+SCI1100A,"2022-23, 2023-24","Gains on disposal of property, plant and equipment (sale)",TAC11 Finance & other,2
+IGR0105,"2022-23, 2023-24",Reclassifications to/from RoU assets,TAC15 Investments & groups,2
+SCI1115B,"2022-23, 2023-24",Gains on disposal of right of use assets (lease termination - lessee),TAC11 Finance & other,2
+TRA0050,2022-23,IAS 17 operating lease commitment discounted at incremental borrowing rate,TAC00 - IFRS 16 Transition,1
+STC0170,2019-20,Costs capitalised as part of assets,TAC09 Staff,1
+TRA0010,2022-23,Operating lease commitments under IAS 17 at 31 March 2022 (per audited TACs),TAC00 - IFRS 16 Transition,1
+LSP0186,2021-22,g. Overtime corrective payments (additional amounts locally agreed and funded),TAC29 Losses+SP,1
+LSP0185,2021-22,f. Overtime corrective payments (nationally funded),TAC29 Losses+SP,1
+TRA0060,2022-23,Short-term leases (<= 12 months),TAC00 - IFRS 16 Transition,1
+TRA0040,2022-23,Incremental borrowing rate at 1 April 2022,TAC00 - IFRS 16 Transition,1
+INC0220,2019-20,Cost and volume contract income,TAC06 Op Inc 1,1
+INC0230,2019-20,Block contract income,TAC06 Op Inc 1,1
+INC0180A,2019-20,A&E income,TAC06 Op Inc 1,1
+INC0197,2023-24,Aligned payment & incentive (API) income - Variable (based on activity),TAC06 Op Inc 1,1
+INC0160A,2019-20,Follow up outpatient income,TAC06 Op Inc 1,1
+INC0140A,2019-20,First outpatient income,TAC06 Op Inc 1,1
+INC0100A,2019-20,Elective income,TAC06 Op Inc 1,1
+INC0120A,2019-20,Non-elective income,TAC06 Op Inc 1,1
+INC0300,2019-20,Income from CCGs and NHS England,TAC06 Op Inc 1,1
+IMP0046,2022-23,Less: impairments relating to RoU assets eliminated on consolidation of charitable funds,TAC12 Impairment,1
+IMP0051,2022-23,Less: impairments relating to RoU assets eliminated on consolidation of charitable funds,TAC12 Impairment,1
+ROU0340,2023-24,Transfer to FT upon authorisation,TAC14A RoU Assets,1
+ROU0362,2023-24,Leased from other DHSC group bodies,TAC14A RoU Assets,1
+ROU0361,2023-24,Leased from other NHS providers,TAC14A RoU Assets,1
+LSP0322,2021-22,7(f). Overtime corrective payments (nationally funded payment),TAC29 Losses+SP,1
+LSP0323,2021-22,7(g). Overtime corrective payments (additional amounts locally agreed and funded),TAC29 Losses+SP,1
+TRA0035,2022-23,Adjusted operating lease commitments under IAS17 at 31 March 2022,TAC00 - IFRS 16 Transition,1
+TRA0025,2022-23,Prior period adjustment made to disclosure in TAC10X (please allocate here by counterparty),TAC00 - IFRS 16 Transition,1
+TRA0021,2022-23,Trust lease commitments to consolidated charity as at 31 March 2022 previously eliminated on consolidation,TAC00 - IFRS 16 Transition,1
+TRA0020,2022-23,Commitments acquired through absorption transfers on 1 April 2022,TAC00 - IFRS 16 Transition,1
+ROU0180,2023-24,Transfer to FT upon authorisation,TAC14A RoU Assets,1
+OPO0150,2019-20,Revenue recognised in the reporting period from performance obligations satisfied (or partially satisfied) in previous periods (e.g. changes in transaction price),TAC07 Op Inc 2,1
+OPO0140,2019-20,Revenue recognised in the reporting period that was previously included in the contract liability balance (i.e. release of deferred IFRS 15 income),TAC07 Op Inc 2,1
+IGR0371,2019-20,Impact of implementing IFRS 9 on opening balances (comparatives only),TAC15 Investments & groups,1
+REC0580,2019-20,EU emissions trading scheme allowance,TAC18 Receivables,1
+OPO0190,2019-20,Total,TAC07 Op Inc 2,1
+OPO0180,2019-20,- after five years,TAC07 Op Inc 2,1
+SCI1203,2023-24,Other gains/(losses),TAC11 Finance & other,1
+PPE0400,2019-20,Owned - government granted,TAC14 PPE,1
+OTD0445,2023-24,Plus: Loss on disposal for capital grants in kind,TAC28 Disclosures,1
+OPO0160,2019-20,- within one year,TAC07 Op Inc 2,1
+OPO0170,2019-20,- after one year not later than five years,TAC07 Op Inc 2,1
+OPO0350,2023-24,- not later than one year,TAC07 Op Inc 2,1
+OPO0340,2023-24,Income generated from subleased right of use assets,TAC07 Op Inc 2,1
+OPO0330,2023-24,Income generated from owned assets,TAC07 Op Inc 2,1
+OPO0320,2023-24,Total in-year operating lease income,TAC07 Op Inc 2,1
+OPO0310,2023-24,Variable lease receipts,TAC07 Op Inc 2,1
+OPO0300,2023-24,Minimum lease receipts,TAC07 Op Inc 2,1
+OPO0360,2023-24,- later than one year and not later than two years,TAC07 Op Inc 2,1
+OPO0370,2023-24,- later than two years and not later than three years,TAC07 Op Inc 2,1
+OPO0400,2023-24,- later than five years,TAC07 Op Inc 2,1
+OPO0410,2023-24,Total,TAC07 Op Inc 2,1
+OPO0380,2023-24,- later than three years and not later than four years,TAC07 Op Inc 2,1
+OPO0390,2023-24,- later than four years and not later than five years,TAC07 Op Inc 2,1
+SCI1295,2023-24,- Remeasurement of PFI / other service concession liability resulting from change in index or rate,TAC11 Finance & other,1
+TRA0070,2022-23,Low value (underlying asset <£5k) leases,TAC00 - IFRS 16 Transition,1
+TRA0080,2022-23,Commitments for leases that had not commenced as at 31 March 2022,TAC00 - IFRS 16 Transition,1
+TRA0090,2022-23,Irrecoverable VAT previously included in IAS 17 commitment,TAC00 - IFRS 16 Transition,1
+TRA0091,2022-23,Services included in IAS 17 commitment not included in the IFRS 16 liability,TAC00 - IFRS 16 Transition,1
+TRA0092,2022-23,Commitments in respect of intangible operating leases out of scope for IFRS 16,TAC00 - IFRS 16 Transition,1
+TRA0100,2022-23,Differences in the assessment of the lease term,TAC00 - IFRS 16 Transition,1
+TRA0110,2022-23,Public sector leases without full documentation previously excluded from operating lease disclosure,TAC00 - IFRS 16 Transition,1
+TRA0120,2022-23,Variable lease payments based on an index or rate,TAC00 - IFRS 16 Transition,1
+TRA0125,2022-23,"Rent increases/(decreases) reflected in the lease liability, not previously reflected in the IAS 17 commitment",TAC00 - IFRS 16 Transition,1
+TRA0130,2022-23,Amounts payable under residual value guarantees,TAC00 - IFRS 16 Transition,1
+TRA0140,2022-23,Termination penalties not previously included in commitment (where reasonably certain to be exercised),TAC00 - IFRS 16 Transition,1
+TRA0150,2022-23,Correction of immaterial prior period error in IAS 17 disclosure,TAC00 - IFRS 16 Transition,1
+TRA0153,2022-23,Adjustments for contracts reassessed for being or containing a lease on transition to IFRS 16.,TAC00 - IFRS 16 Transition,1
+TRA0155,2022-23,Immaterial differences arising from leases in consolidated subsidiaries with earlier adoption of IFRS 16 (unlocked on request),TAC00 - IFRS 16 Transition,1
+TRA0200,2022-23,Other adjustments (unlocked on request),TAC00 - IFRS 16 Transition,1
+TRA0210,2022-23,Lease liability on 1 April 2022 for existing operating leases,TAC00 - IFRS 16 Transition,1
+TRA0220,2022-23,Finance lease liabilities under IAS 17 as at 31 March 2022,TAC00 - IFRS 16 Transition,1
+TRA0225,2022-23,Adjustments for finance lease liabilities incorrectly classified in TACs in 2021/22 (unlocked on request - please email provider accounts),TAC00 - IFRS 16 Transition,1
+TRA0230,2022-23,Total lease liabilities under IFRS 16 as at 1 April 2022,TAC00 - IFRS 16 Transition,1
