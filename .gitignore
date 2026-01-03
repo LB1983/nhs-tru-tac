@@ -1,0 +1,16 @@
+# Generated canonical outputs (too large for GitHub)
+Data/canonical/
+outputs/
+
+# Optional: raw source spreadsheets are large too
+Data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Windows
+Thumbs.db
+Desktop.ini

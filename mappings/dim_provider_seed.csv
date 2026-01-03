@@ -1,0 +1,295 @@
+sector,org_name_raw,first_fy_seen,last_fy_seen,rows
+FT,2gether NHS Foundation Trust,2017-18,2018-19,11406
+FT,Aintree University Hospital NHS Foundation Trust,2018-19,2018-19,5778
+FT,Aintree University Hospitals NHS Foundation Trust,2017-18,2017-18,5628
+FT,Airedale NHS Foundation Trust,2017-18,2023-24,43414
+FT,Alder Hey Children's NHS Foundation Trust,2017-18,2023-24,43414
+FT,Ashford and St Peter's Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Barnsley Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,Basildon & Thurrock University Hospitals NHS Foundation Trust,2017-18,2017-18,5628
+FT,Basildon and Thurrock University Hospitals NHS Foundation Trust,2018-19,2019-20,11740
+FT,Bedfordshire Hospitals NHS Foundation Trust,2020-21,2023-24,26046
+FT,Berkshire Healthcare NHS Foundation Trust,2017-18,2023-24,43414
+FT,Birmingham Community Healthcare NHS Foundation Trust,2017-18,2023-24,43414
+FT,Birmingham Women's and Children's Hospital NHS Foundation Trust,2017-18,2017-18,5628
+FT,Birmingham Women’s and Children's NHS Foundation Trust,2018-19,2022-23,30600
+FT,Birmingham and Solihull Mental Health NHS Foundation Trust,2017-18,2023-24,43414
+FT,Black Country Healthcare NHS Foundation Trust,2020-21,2023-24,26046
+FT,Black Country Partnership NHS Foundation Trust,2017-18,2019-20,17368
+FT,Blackpool Teaching Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Bolton NHS Foundation Trust,2017-18,2023-24,43414
+FT,Bradford District Care NHS Foundation Trust,2017-18,2023-24,43414
+FT,Bradford Teaching Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Bridgewater Community Healthcare NHS Foundation Trust,2017-18,2023-24,43414
+FT,Burton Hospitals NHS Foundation Trust,2017-18,2018-19,11406
+FT,Calderdale & Huddersfield NHS Foundation Trust,2017-18,2017-18,5628
+FT,Calderdale and Huddersfield NHS Foundation Trust,2018-19,2023-24,37786
+FT,Cambridge University Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Cambridgeshire and Peterborough NHS Foundation Trust,2017-18,2023-24,43414
+FT,Camden and Islington NHS Foundation Trust,2017-18,2023-24,43414
+FT,Central Manchester University Hospitals NHS Foundation Trust,2017-18,2017-18,5628
+FT,Central and North West London NHS Foundation Trust,2017-18,2023-24,43414
+FT,Chelsea and Westminster Hospital NHS Foundation Trust,2018-19,2023-24,37786
+FT,Chelsea and Westminster NHS Foundation Trust,2017-18,2017-18,5628
+FT,Cheshire and Wirral Partnership NHS Foundation Trust,2017-18,2023-24,43414
+FT,Chesterfield Royal Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,City Hospitals Sunderland NHS Foundation Trust,2017-18,2018-19,11406
+FT,Colchester Hospital University NHS Foundation Trust,2017-18,2017-18,5628
+FT,Cornwall Partnership NHS Foundation Trust,2017-18,2023-24,43414
+FT,Countess of Chester Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,County Durham and Darlington NHS Foundation Trust,2017-18,2023-24,43414
+FT,Cumbria Partnership NHS Foundation Trust,2017-18,2018-19,11406
+FT,"Cumbria, Northumberland, Tyne and Wear NHS Foundation Trust",2019-20,2023-24,32008
+FT,Derby Teaching Hospitals NHS Foundation Trust,2017-18,2017-18,5628
+FT,Derbyshire Community Health Services NHS Foundation Trust,2017-18,2023-24,43414
+FT,Derbyshire Healthcare NHS Foundation Trust,2017-18,2023-24,43414
+FT,Doncaster & Bassetlaw Teaching Hospitals NHS Foundation Trust,2017-18,2017-18,5628
+FT,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,2018-19,2023-24,37786
+FT,Dorset County Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,Dorset Healthcare University NHS Foundation Trust,2017-18,2023-24,43414
+FT,East Kent Hospitals University NHS Foundation Trust,2017-18,2023-24,43414
+FT,East London NHS Foundation Trust,2017-18,2022-23,36228
+FT,East Suffolk and North Essex NHS Foundation Trust,2018-19,2023-24,37786
+FT,Essex Partnership University NHS Foundation Trust,2017-18,2023-24,43414
+FT,Frimley Health NHS Foundation Trust,2017-18,2023-24,43414
+FT,Gateshead Health NHS Foundation Trust,2017-18,2023-24,43414
+FT,Gloucestershire Health and Care NHS Foundation Trust,2019-20,2023-24,32008
+FT,Gloucestershire Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Great Ormond Street Hospital for Children NHS Foundation Trust,2017-18,2023-24,43414
+FT,Great Western Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Greater Manchester Mental Health NHS Foundation Trust,2017-18,2023-24,43414
+FT,Guy's & St Thomas' NHS Foundation Trust,2017-18,2023-24,12814
+FT,Guy's and St Thomas' NHS Foundation Trust,2018-19,2022-23,30600
+FT,Hampshire Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Harrogate and District NHS Foundation Trust,2017-18,2023-24,43414
+FT,Heart of England NHS Foundation Trust,2017-18,2017-18,5628
+FT,Hertfordshire Partnership University NHS Foundation Trust,2017-18,2023-24,43414
+FT,Homerton Healthcare NHS Foundation Trust,2022-23,2023-24,13926
+FT,Homerton University Hospital NHS Foundation Trust,2017-18,2021-22,29488
+FT,Humber NHS Foundation Trust,2017-18,2017-18,5628
+FT,Humber Teaching NHS Foundation Trust,2018-19,2022-23,30600
+FT,James Paget University Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Kent Community Health NHS Foundation Trust,2017-18,2023-24,43414
+FT,Kettering General Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,King's College Hospital NHS Foundation Trust,2018-19,2022-23,30600
+FT,Kingston Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,King’s College Hospital NHS Foundation Trust,2017-18,2023-24,12814
+FT,Lancashire Care NHS Foundation Trust,2017-18,2018-19,11406
+FT,Lancashire Teaching Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Lancashire and South Cumbria NHS Foundation Trust,2019-20,2023-24,32008
+FT,Leeds and York Partnership NHS Foundation Trust,2017-18,2023-24,43414
+FT,Lincolnshire Partnership NHS Foundation Trust,2017-18,2023-24,43414
+FT,Liverpool Heart and Chest Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,Liverpool University Hospitals NHS Foundation Trust,2019-20,2023-24,32008
+FT,Liverpool Women's NHS Foundation Trust,2017-18,2023-24,43414
+FT,Luton and Dunstable University Hospital NHS Foundation Trust,2017-18,2019-20,17368
+FT,Manchester University NHS Foundation Trust,2017-18,2023-24,43414
+FT,Medway NHS Foundation Trust,2017-18,2023-24,43414
+FT,Mersey Care NHS Foundation Trust,2017-18,2023-24,43414
+FT,Mid Cheshire Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Mid Staffordshire NHS Foundation Trust ,2017-18,2017-18,5628
+FT,Mid and South Essex NHS Foundation Trust,2020-21,2023-24,26046
+FT,Midlands Partnership NHS Foundation Trust,2018-19,2023-24,37786
+FT,Milton Keynes University Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,Moorfields Eye Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,Norfolk and Norwich University Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Norfolk and Suffolk NHS Foundation Trust,2017-18,2023-24,43414
+FT,North Cumbria Integrated Care NHS Foundation Trust,2019-20,2023-24,32008
+FT,North East Ambulance Service NHS Foundation Trust,2017-18,2023-24,43414
+FT,North East London NHS Foundation Trust,2017-18,2023-24,43414
+FT,North Tees and Hartlepool NHS Foundation Trust,2017-18,2023-24,43414
+FT,North West Anglia NHS Foundation Trust,2018-19,2023-24,37786
+FT,North West Anglia NHS Foundation Trust ,2017-18,2017-18,5628
+FT,North West Boroughs Healthcare NHS Foundation Trust,2017-18,2021-22,29488
+FT,Northamptonshire Healthcare NHS Foundation Trust,2017-18,2023-24,43414
+FT,Northern Care Alliance NHS Foundation Trust,2021-22,2023-24,20024
+FT,Northern Lincolnshire and Goole Hospitals NHS Foundation Trust,2017-18,2017-18,5628
+FT,Northern Lincolnshire and Goole NHS Foundation Trust,2018-19,2023-24,37786
+FT,"Northumberland, Tyne & Wear NHS Foundation Trust",2017-18,2017-18,5628
+FT,"Northumberland, Tyne and Wear NHS Foundation Trust",2018-19,2018-19,5778
+FT,Northumbria Healthcare NHS Foundation Trust,2017-18,2023-24,43414
+FT,Nottinghamshire Healthcare NHS Foundation Trust,2017-18,2023-24,43414
+FT,Oxford Health NHS Foundation Trust,2017-18,2023-24,43414
+FT,Oxford University Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Oxleas NHS Foundation Trust,2017-18,2023-24,43414
+FT,Pennine Care NHS Foundation Trust,2017-18,2023-24,43414
+FT,Poole Hospital NHS Foundation Trust,2017-18,2020-21,23390
+FT,Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,2019-20,2023-24,32008
+FT,Queen Victoria Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,Rotherham Doncaster and South Humber NHS Foundation Trust,2017-18,2023-24,43414
+FT,Royal Berkshire NHS Foundation Trust,2017-18,2023-24,43414
+FT,Royal Brompton and Harefield NHS Foundation Trust,2017-18,2020-21,23390
+FT,Royal Devon University Healthcare NHS Foundation Trust,2022-23,2023-24,13926
+FT,Royal Devon and Exeter NHS Foundation Trust,2017-18,2021-22,29488
+FT,Royal Free London NHS Foundation Trust,2017-18,2023-24,43414
+FT,Royal Papworth Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,Royal Surrey County Hospital NHS Foundation Trust,2017-18,2018-19,11406
+FT,Royal Surrey NHS Foundation Trust,2019-20,2023-24,32008
+FT,Royal United Hospitals Bath NHS Foundation Trust,2017-18,2023-24,43414
+FT,Salford Royal NHS Foundation Trust,2017-18,2020-21,23390
+FT,Salisbury NHS Foundation Trust,2017-18,2023-24,43414
+FT,Sheffield Children's NHS Foundation Trust,2017-18,2023-24,43414
+FT,Sheffield Health and Social Care NHS Foundation Trust,2017-18,2023-24,43414
+FT,Sheffield Teaching Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Sherwood Forest Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Somerset NHS Foundation Trust,2020-21,2023-24,26046
+FT,Somerset Partnership NHS Foundation Trust,2017-18,2019-20,17368
+FT,South Central Ambulance Service NHS Foundation Trust,2017-18,2023-24,43414
+FT,South East Coast Ambulance Service NHS Foundation Trust,2017-18,2023-24,43414
+FT,South London and Maudsley NHS Foundation Trust,2017-18,2023-24,43414
+FT,South Staffordshire and Shropshire Healthcare NHS Foundation Trust,2017-18,2017-18,5628
+FT,South Tees Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,South Tyneside NHS Foundation Trust,2017-18,2018-19,11406
+FT,South Tyneside and Sunderland NHS Foundation Trust,2019-20,2023-24,32008
+FT,South Warwickshire NHS Foundation Trust,2017-18,2023-24,36674
+FT,South Warwickshire University NHS Foundation Trust,2022-23,2022-23,6740
+FT,South West Yorkshire Partnership NHS Foundation Trust,2017-18,2023-24,43414
+FT,South Western Ambulance Service NHS Foundation Trust,2017-18,2023-24,43414
+FT,Southend University Hospital NHS Foundation Trust,2017-18,2019-20,17368
+FT,Southern Health NHS Foundation Trust,2017-18,2023-24,43414
+FT,St George's University Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,Stockport NHS Foundation Trust,2017-18,2023-24,43414
+FT,Surrey and Borders Partnership NHS Foundation Trust,2017-18,2023-24,43414
+FT,Sussex Community NHS Foundation Trust,2017-18,2023-24,43414
+FT,Sussex Partnership NHS Foundation Trust,2017-18,2023-24,43414
+FT,Tameside and Glossop Integrated Care NHS Foundation Trust,2017-18,2023-24,43414
+FT,Taunton & Somerset NHS Foundation Trust,2017-18,2017-18,5628
+FT,Taunton and Somerset NHS Foundation Trust,2018-19,2019-20,11740
+FT,Tavistock and Portman NHS Foundation Trust,2017-18,2023-24,43414
+FT,"Tees, Esk and Wear Valleys NHS Foundation Trust",2017-18,2023-24,43414
+FT,The Christie NHS Foundation Trust,2017-18,2023-24,43414
+FT,The Clatterbridge Cancer Centre NHS Foundation Trust,2017-18,2023-24,43414
+FT,The Dudley Group NHS Foundation Trust,2017-18,2023-24,43414
+FT,The Hillingdon Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,2017-18,2018-19,11406
+FT,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,The Rotherham NHS Foundation Trust,2017-18,2023-24,43414
+FT,The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,2017-18,2020-21,23390
+FT,The Royal Marsden NHS Foundation Trust,2017-18,2023-24,43414
+FT,The Royal Orthopaedic Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,The Walton Centre NHS Foundation Trust,2017-18,2023-24,43414
+FT,Torbay and South Devon NHS Foundation Trust,2017-18,2023-24,43414
+FT,University College London Hospitals NHS Foundation Trust,2017-18,2023-24,43414
+FT,University Hospital Southampton NHS Foundation Trust,2017-18,2023-24,43414
+FT,University Hospital of South Manchester NHS Foundation Trust,2017-18,2017-18,5628
+FT,University Hospitals Birmingham NHS Foundation Trust,2017-18,2023-24,43414
+FT,University Hospitals Bristol NHS Foundation Trust,2017-18,2019-20,17368
+FT,University Hospitals Bristol and Weston NHS Foundation Trust,2020-21,2023-24,26046
+FT,University Hospitals Dorset NHS Foundation Trust,2020-21,2023-24,26046
+FT,University Hospitals Sussex NHS Foundation Trust,2021-22,2023-24,20024
+FT,University Hospitals of Derby and Burton NHS Foundation Trust,2018-19,2023-24,37786
+FT,University Hospitals of Morecambe Bay NHS Foundation Trust,2017-18,2023-24,43414
+FT,Warrington and Halton Hospitals NHS Foundation Trust,2017-18,2018-19,11406
+FT,Warrington and Halton Teaching Hospitals NHS Foundation Trust,2019-20,2023-24,32008
+FT,West Midlands Ambulance Service NHS Foundation Trust,2017-18,2017-18,5628
+FT,West Midlands Ambulance Service University NHS Foundation Trust,2018-19,2023-24,37786
+FT,West Suffolk NHS Foundation Trust,2017-18,2023-24,43414
+FT,Western Sussex Hospitals NHS Foundation Trust,2017-18,2020-21,23390
+FT,Wirral Community Health and Care NHS Foundation Trust,2019-20,2023-24,32008
+FT,Wirral Community NHS Foundation Trust,2017-18,2018-19,11406
+FT,Wirral University Teaching Hospital NHS Foundation Trust,2017-18,2023-24,43414
+FT,"Wrightington, Wigan and Leigh NHS Foundation Trust",2017-18,2023-24,43414
+FT,Yeovil District Hospital NHS Foundation Trust,2017-18,2022-23,36228
+FT,York Teaching Hospital NHS Foundation Trust,2017-18,2020-21,23390
+FT,York and Scarborough Teaching Hospitals NHS Foundation Trust,2021-22,2023-24,20024
+Trust,Avon and Wiltshire Mental Health Partnership NHS Trust,2017-18,2023-24,44002
+Trust,"Barking, Havering and Redbridge University Hospitals NHS Trust",2017-18,2022-23,36712
+Trust,"Barnet, Enfield And Haringey Mental Health NHS Trust",2017-18,2023-24,44002
+Trust,Barts Health NHS Trust,2017-18,2023-24,44002
+Trust,Bedford Hospital NHS Trust,2017-18,2019-20,17589
+Trust,Brighton and Sussex University Hospitals NHS Trust,2017-18,2020-21,23692
+Trust,Buckinghamshire Healthcare NHS Trust,2017-18,2023-24,44002
+Trust,Cambridgeshire Community Services NHS Trust,2017-18,2023-24,44002
+Trust,Central London Community Healthcare NHS Trust,2017-18,2023-24,44002
+Trust,Coventry and Warwickshire Partnership NHS Trust,2017-18,2023-24,44002
+Trust,Croydon Health Services NHS Trust,2017-18,2022-23,36712
+Trust,Dartford and Gravesham NHS Trust,2017-18,2023-24,44002
+Trust,Devon Partnership NHS Trust,2017-18,2023-24,44002
+Trust,Dudley And Walsall Mental Health Partnership NHS Trust,2017-18,2019-20,17589
+Trust,Dudley Integrated Health and Care NHS Trust,2020-21,2023-24,26413
+Trust,East And North Hertfordshire NHS Trust,2017-18,2023-24,44002
+Trust,East Cheshire NHS Trust,2017-18,2023-24,44002
+Trust,East Lancashire Hospitals NHS Trust,2017-18,2023-24,44002
+Trust,East Midlands Ambulance Service NHS Trust,2017-18,2023-24,44002
+Trust,East Sussex Healthcare NHS Trust,2017-18,2023-24,44002
+Trust,East of England Ambulance Service NHS Trust,2017-18,2023-24,44002
+Trust,Epsom and St Helier University Hospitals NHS Trust,2017-18,2023-24,44002
+Trust,George Eliot Hospital NHS Trust,2017-18,2023-24,44002
+Trust,Gloucestershire Care Services NHS Trust,2017-18,2019-20,17589
+Trust,Herefordshire and Worcestershire Health and Care NHS Trust,2020-21,2023-24,26413
+Trust,Hertfordshire Community NHS Trust,2017-18,2023-24,44002
+Trust,Hounslow and Richmond Community Healthcare NHS Trust,2017-18,2023-24,44002
+Trust,Hull And East Yorkshire Hospitals NHS Trust,2017-18,2017-18,5699
+Trust,Hull University Teaching Hospitals NHS Trust,2018-19,2023-24,38303
+Trust,Imperial College Healthcare NHS Trust,2017-18,2023-24,44002
+Trust,Ipswich Hospital NHS Trust,2017-18,2017-18,5699
+Trust,Isle of Wight NHS Trust,2017-18,2023-24,44002
+Trust,Kent and Medway NHS and Social Care Partnership Trust,2017-18,2023-24,44002
+Trust,Leeds Community Healthcare NHS Trust,2017-18,2023-24,44002
+Trust,Leeds Teaching Hospitals NHS Trust,2017-18,2017-18,5699
+Trust,Leicestershire Partnership NHS Trust,2017-18,2023-24,44002
+Trust,Lewisham and Greenwich NHS Trust,2017-18,2023-24,44002
+Trust,Lincolnshire Community Health Services NHS Trust,2017-18,2023-24,44002
+Trust,Liverpool Community Health NHS Trust,2017-18,2017-18,5699
+Trust,London Ambulance Service NHS Trust,2017-18,2023-24,44002
+Trust,London North West University Healthcare NHS Trust,2017-18,2023-24,44002
+Trust,Maidstone And Tunbridge Wells NHS Trust,2017-18,2023-24,18841
+Trust,Maidstone and Tunbridge Wells NHS Trust,2019-20,2022-23,25161
+Trust,Mersey and West Lancashire Teaching Hospitals NHS Trust,2023-24,2023-24,7290
+Trust,Mid Essex Hospital Services NHS Trust,2017-18,2019-20,17589
+Trust,Mid Yorkshire Hospitals NHS Trust,2017-18,2017-18,5699
+Trust,Norfolk Community Health and Care NHS Trust,2017-18,2023-24,44002
+Trust,North Bristol NHS Trust,2017-18,2023-24,44002
+Trust,North Cumbria University Hospitals NHS Trust,2017-18,2019-20,17589
+Trust,North Middlesex University Hospital NHS Trust,2017-18,2023-24,44002
+Trust,North Staffordshire Combined Healthcare NHS Trust,2017-18,2023-24,44002
+Trust,North West Ambulance Service NHS Trust,2017-18,2023-24,44002
+Trust,Northampton General Hospital NHS Trust,2017-18,2023-24,44002
+Trust,Northern Devon Healthcare NHS Trust,2017-18,2021-22,29877
+Trust,Nottingham University Hospitals NHS Trust,2017-18,2023-24,44002
+Trust,Pennine Acute Hospitals NHS Trust,2017-18,2017-18,5699
+Trust,Plymouth Hospitals NHS Trust,2017-18,2017-18,5699
+Trust,Portsmouth Hospitals NHS Trust,2017-18,2019-20,17589
+Trust,Portsmouth Hospitals University NHS Trust,2020-21,2023-24,26413
+Trust,Royal Cornwall Hospitals NHS Trust,2017-18,2023-24,44002
+Trust,Royal Liverpool and Broadgreen University Hospitals NHS Trust,2017-18,2018-19,11551
+Trust,Royal National Orthopaedic Hospital NHS Trust,2017-18,2023-24,44002
+Trust,Sandwell And West Birmingham Hospitals NHS Trust,2017-18,2023-24,44002
+Trust,Shrewsbury and Telford Hospital NHS Trust,2017-18,2017-18,5699
+Trust,Shropshire Community Health NHS Trust,2017-18,2023-24,44002
+Trust,Solent NHS Trust,2017-18,2023-24,44002
+Trust,South West London and St George's Mental Health NHS Trust,2017-18,2023-24,44002
+Trust,Southport And Ormskirk Hospital NHS Trust,2017-18,2023-24,44002
+Trust,St Helens And Knowsley Hospital Services NHS Trust,2020-21,2020-21,6103
+Trust,St Helens And Knowsley Teaching Hospitals NHS Trust,2018-19,2022-23,24910
+Trust,St Helens and Knowsley Hospital Services NHS Trust,2017-18,2017-18,5699
+Trust,Staffordshire and Stoke on Trent Partnership NHS Trust,2017-18,2018-19,11551
+Trust,Surrey And Sussex Healthcare NHS Trust,2017-18,2023-24,18841
+Trust,Surrey and Sussex Healthcare NHS Trust,2019-20,2022-23,25161
+Trust,The Ipswich Hospital NHS Trust,2018-19,2018-19,5852
+Trust,The Leeds Teaching Hospitals NHS Trust,2018-19,2023-24,38303
+Trust,The Mid Yorkshire Hospitals NHS Trust,2018-19,2023-24,38303
+Trust,The Pennine Acute Hospitals NHS Trust,2018-19,2021-22,24178
+Trust,The Princess Alexandra Hospital NHS Trust,2017-18,2023-24,44002
+Trust,The Royal Liverpool and Broadgreen University Hospitals NHS Trust,2019-20,2019-20,6038
+Trust,The Royal Wolverhampton NHS Trust,2017-18,2023-24,44002
+Trust,The Shrewsbury And Telford Hospital NHS Trust,2018-19,2022-23,31013
+Trust,The Shrewsbury and Telford Hospital NHS Trust,2023-24,2023-24,7290
+Trust,The Whittington Health NHS Trust,2017-18,2018-19,11551
+Trust,United Lincolnshire Hospitals NHS Trust,2017-18,2023-24,44002
+Trust,University Hospitals Coventry And Warwickshire NHS Trust,2017-18,2023-24,44002
+Trust,University Hospitals Plymouth NHS Trust,2018-19,2023-24,38303
+Trust,University Hospitals of Leicester NHS Trust,2017-18,2023-24,37964
+Trust,University Hospitals of North Midlands NHS Trust,2017-18,2023-24,44002
+Trust,Walsall Healthcare NHS Trust,2017-18,2023-24,44002
+Trust,West Hertfordshire Hospitals NHS Trust,2017-18,2023-24,30982
+Trust,West Hertfordshire Teaching Hospitals NHS Trust,2021-22,2022-23,13020
+Trust,West London Mental Health NHS Trust,2017-18,2017-18,5699
+Trust,West London NHS Trust,2018-19,2023-24,38303
+Trust,Weston Area Health NHS Trust,2017-18,2019-20,17589
+Trust,Whittington Health NHS Trust,2019-20,2023-24,32451
+Trust,Worcestershire Acute Hospitals NHS Trust,2017-18,2023-24,44002
+Trust,Worcestershire Health and Care NHS Trust,2017-18,2019-20,17589
+Trust,Wye Valley NHS Trust,2017-18,2023-24,44002
+Trust,Yorkshire Ambulance Service NHS Trust,2017-18,2023-24,44002
