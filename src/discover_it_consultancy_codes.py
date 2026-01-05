@@ -28,7 +28,7 @@ print("1. IT-RELATED SUBCODES")
 print("=" * 80)
 
 it_search_query = """
-SELECT DISTINCT
+SELECT
     SubCode,
     subcode_label,
     WorkSheetName,
@@ -89,7 +89,7 @@ print("2. CONSULTANCY-RELATED SUBCODES")
 print("=" * 80)
 
 consultancy_search_query = """
-SELECT DISTINCT
+SELECT
     SubCode,
     subcode_label,
     WorkSheetName,
@@ -146,7 +146,7 @@ print("3. INTANGIBLE ASSETS (SOFTWARE/IT ON BALANCE SHEET)")
 print("=" * 80)
 
 intangibles_query = """
-SELECT DISTINCT
+SELECT
     SubCode,
     subcode_label,
     WorkSheetName,
@@ -199,7 +199,7 @@ print("=" * 80)
 # Search for capital vs revenue
 print("\nSearching for capital expenditure codes...")
 capital_query = """
-SELECT DISTINCT
+SELECT
     SubCode,
     subcode_label,
     WorkSheetName,
@@ -221,7 +221,7 @@ capital_codes.to_csv(OUTPUT_DIR / "capital_expenditure_codes.csv", index=False)
 
 print("\nSearching for operating expense codes...")
 opex_query = """
-SELECT DISTINCT
+SELECT
     SubCode,
     subcode_label,
     WorkSheetName,
