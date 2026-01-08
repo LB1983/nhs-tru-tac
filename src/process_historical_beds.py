@@ -21,7 +21,7 @@ output_dir.mkdir(parents=True, exist_ok=True)
 
 db_path = Path('Data/canonical/tru_tac.duckdb')
 
-# Map file names to financial years
+# Map file names to financial years (note: 2023-24 file is named differently)
 bed_files = {
     'beds_Q4_201718.xlsx': '2017-18',
     'beds_Q4_201819.xlsx': '2018-19',
@@ -29,7 +29,7 @@ bed_files = {
     'beds_Q4_202021.xlsx': '2020-21',
     'beds_Q4_2021-22.xlsx': '2021-22',
     'beds_Q4_202223.xlsx': '2022-23',
-    'bed_Q4_202324.xlsx': '2023-24',
+    'bed_Q4_202324.xlsx': '2023-24',  # Note: no 's' on bed
 }
 
 # ============================================================================
