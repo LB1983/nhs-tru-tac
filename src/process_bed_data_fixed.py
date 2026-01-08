@@ -44,8 +44,8 @@ print(f"✓ Loaded {len(beds_raw):,} rows")
 # ============================================================================
 print("\n[2/4] Extracting data...")
 
-# Select columns we need
-beds = beds_raw[['Year', 'Period End', 'Org Name', 'Total']].copy()
+# Select columns we need (note: 'Total ' has a trailing space in the Excel file)
+beds = beds_raw[['Year', 'Period End', 'Org Name', 'Total ']].copy()
 beds.columns = ['year', 'period', 'org_name_activity', 'beds']
 
 # Remove header rows and invalid data
