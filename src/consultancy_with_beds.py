@@ -15,7 +15,8 @@ import warnings
 warnings.filterwarnings('ignore')
 
 DB_PATH = Path("Data/canonical/tru_tac.duckdb")
-BEDS_FILE = Path("Data/analysis/activity_integrated/beds_matched.csv")
+BEDS_FILE_HISTORICAL = Path("Data/analysis/activity_integrated/beds_historical_matched.csv")
+BEDS_FILE_SINGLE = Path("Data/analysis/activity_integrated/beds_matched.csv")
 OUTPUT_DIR = Path("Data/analysis/consultancy_per_bed")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -31,13 +32,22 @@ print("=" * 80)
 # ============================================================================
 print("\n[1/4] Loading data...")
 
-if not BEDS_FILE.exists():
-    print(f"\n⚠️  Bed data not found: {BEDS_FILE}")
-    print("\nPlease run: python src/process_bed_data.py first")
+# Try to load historical bed data first, fall back to single-year data
+if BEDS_FILE_HISTORICAL.exists():
+    beds = pd.read_csv(BEDS_FILE_HISTORICAL)
+    print(f"✓ Loaded historical bed data: {len(beds)} records, {beds['org_name_raw'].nunique()} organizations")
+    if 'fy' in beds.columns:
+        print(f"  Years covered: {sorted(beds['fy'].unique())}")
+elif BEDS_FILE_SINGLE.exists():
+    beds = pd.read_csv(BEDS_FILE_SINGLE)
+    print(f"✓ Loaded single-year bed data: {len(beds)} records, {beds['org_name_raw'].nunique()} organizations")
+    print(f"  (Will be applied to all consultancy years)")
+else:
+    print(f"\n⚠️  No bed data found!")
+    print(f"\nPlease run either:")
+    print(f"  - python src/process_historical_beds.py  (for year-matched data)")
+    print(f"  - python src/process_bed_data_fixed.py   (for single-year data)")
     exit(1)
-
-beds = pd.read_csv(BEDS_FILE)
-print(f"✓ Loaded bed data: {len(beds)} records, {beds['org_name_raw'].nunique()} organizations")
 
 # Get consultancy data
 con = duckdb.connect(str(DB_PATH), read_only=True)
