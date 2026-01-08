@@ -89,8 +89,8 @@ print(f"  Financial years: {sorted(beds_combined['fy'].unique())}")
 # ============================================================================
 print("\n[2/4] Cleaning organization names...")
 
-# Standardize names for matching
-beds_combined['org_name_raw'] = beds_combined['org_name_activity'].str.strip().str.upper()
+# Standardize names for matching (keep original capitalization to match TAC database)
+beds_combined['org_name_raw'] = beds_combined['org_name_activity'].str.strip()
 
 # Aggregate by org and year (in case of duplicates)
 beds_agg = beds_combined.groupby(['org_name_raw', 'fy'])['beds'].mean().reset_index()
