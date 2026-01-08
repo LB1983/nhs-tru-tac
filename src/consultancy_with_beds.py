@@ -87,9 +87,21 @@ print(f"✓ Loaded consultancy data")
 # ============================================================================
 print("\n[2/4] Merging consultancy with bed data...")
 
-# If beds has FY, merge on that. Otherwise use latest beds for all years
+# Check if bed data years overlap with consultancy data years
 if 'fy' in beds.columns:
-    merged = consultancy.merge(beds[['org_name_raw', 'fy', 'beds']], on=['org_name_raw', 'fy'], how='inner')
+    bed_years = set(beds['fy'].unique())
+    consultancy_years = set(consultancy['fy'].unique())
+    overlap = bed_years & consultancy_years
+
+    if overlap:
+        print(f"  Using year-matched bed data (overlapping years: {sorted(overlap)})")
+        merged = consultancy.merge(beds[['org_name_raw', 'fy', 'beds']], on=['org_name_raw', 'fy'], how='inner')
+    else:
+        print(f"  Bed data years ({sorted(bed_years)}) don't overlap with consultancy years ({sorted(consultancy_years)[:3]}...)")
+        print(f"  Using current bed counts as proxy for all historical years")
+        # Use average beds (or just the available data) for all years
+        beds_avg = beds.groupby('org_name_raw')['beds'].mean().reset_index()
+        merged = consultancy.merge(beds_avg, on='org_name_raw', how='inner')
 else:
     # Use average beds for all years
     beds_avg = beds.groupby('org_name_raw')['beds'].mean().reset_index()
