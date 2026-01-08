@@ -112,14 +112,27 @@ tac_orgs = con.execute("""
 
 print(f"  TAC organizations: {len(tac_orgs)}")
 
-# Merge with TAC orgs to get matched names
-matched = beds_agg.merge(tac_orgs, on='org_name_raw', how='inner')
+# Create uppercase version for case-insensitive matching
+tac_orgs['org_name_upper'] = tac_orgs['org_name_raw'].str.upper()
+beds_agg['org_name_upper'] = beds_agg['org_name_raw'].str.upper()
+
+# Merge on uppercase names, but keep proper TAC name
+matched = beds_agg.merge(
+    tac_orgs[['org_name_raw', 'org_name_upper']],
+    on='org_name_upper',
+    how='inner',
+    suffixes=('_bed', '_tac')
+)
+
+# Use the TAC org_name_raw (proper case) and drop the bed uppercase name
+matched = matched[['org_name_raw_tac', 'fy', 'beds']].copy()
+matched.columns = ['org_name_raw', 'fy', 'beds']
 
 print(f"  Matched organizations: {matched['org_name_raw'].nunique()}")
 print(f"  Match rate: {matched['org_name_raw'].nunique() / beds_agg['org_name_raw'].nunique() * 100:.1f}%")
 
 # Show unmatched for reference
-unmatched = beds_agg[~beds_agg['org_name_raw'].isin(tac_orgs['org_name_raw'])]
+unmatched = beds_agg[~beds_agg['org_name_upper'].isin(tac_orgs['org_name_upper'])]
 if len(unmatched) > 0:
     unmatched_orgs = unmatched['org_name_raw'].unique()
     print(f"\n  Some organizations didn't match. Sample unmatched:")
