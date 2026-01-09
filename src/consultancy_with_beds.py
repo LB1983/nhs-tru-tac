@@ -124,6 +124,14 @@ merged['turnover_millions'] = merged['operating_income'] / 1_000_000
 print(f"✓ Merged data: {len(merged)} records")
 print(f"✓ Organizations with bed data: {merged['org_name_raw'].nunique()}")
 
+# Filter out invalid values (inf, -inf, NaN)
+import numpy as np
+merged = merged.replace([np.inf, -np.inf], np.nan)
+merged = merged[merged['consultancy_per_bed'].notna()]
+merged = merged[merged['beds'] > 0]  # Ensure positive bed counts
+
+print(f"✓ After filtering invalid values: {len(merged)} records")
+
 merged.to_csv(OUTPUT_DIR / "consultancy_with_beds.csv", index=False)
 
 # ============================================================================
