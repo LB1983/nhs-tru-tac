@@ -184,18 +184,31 @@ print(sector_comp)
 # ============================================================================
 print("\n[4/4] Creating visualizations...")
 
+# Filter extreme outliers for better visualization (but keep in CSV)
+percentile_99 = latest['consultancy_per_bed'].quantile(0.99)
+extreme_outliers = latest[latest['consultancy_per_bed'] > percentile_99]
+
+if len(extreme_outliers) > 0:
+    print(f"\nExtreme outliers (>99th percentile, £{percentile_99:,.0f}/bed):")
+    for _, row in extreme_outliers.nlargest(5, 'consultancy_per_bed').iterrows():
+        print(f"  {row['org_name_raw']}: £{row['consultancy_per_bed']:,.0f}/bed ({row['beds']:.0f} beds)")
+    print(f"  (Filtering {len(extreme_outliers)} extreme outliers from charts for better visualization)")
+
+# Use filtered data for visualization
+latest_viz = latest[latest['consultancy_per_bed'] <= percentile_99].copy()
+
 fig, axes = plt.subplots(2, 2, figsize=(18, 12))
 
 # 1. Scatter: Beds vs Consultancy per bed
 ax1 = axes[0, 0]
 colors = {'FT': '#1f77b4', 'Trust': '#ff7f0e'}
-for sector in latest['sector'].unique():
-    sector_data = latest[latest['sector'] == sector]
+for sector in latest_viz['sector'].unique():
+    sector_data = latest_viz[latest_viz['sector'] == sector]
     ax1.scatter(sector_data['beds'], sector_data['consultancy_per_bed'],
                c=colors[sector], label=sector, alpha=0.6, s=80)
 
-# Highlight outliers
-all_outliers = latest[abs(latest['z_score_per_bed']) > 2]
+# Highlight outliers (within the filtered data)
+all_outliers = latest_viz[abs(latest_viz['z_score_per_bed']) > 2]
 for _, row in all_outliers.iterrows():
     ax1.scatter(row['beds'], row['consultancy_per_bed'],
                c='red', s=250, marker='*', edgecolors='black', linewidths=2)
@@ -210,11 +223,11 @@ ax1.grid(alpha=0.3)
 
 # 2. Distribution histogram
 ax2 = axes[0, 1]
-ax2.hist(latest['consultancy_per_bed'], bins=30, edgecolor='black', alpha=0.7, color='steelblue')
-ax2.axvline(latest['consultancy_per_bed'].mean(), color='red', linestyle='--',
-           linewidth=2, label=f'Mean: £{latest["consultancy_per_bed"].mean():,.0f}')
-ax2.axvline(latest['consultancy_per_bed'].median(), color='green', linestyle='--',
-           linewidth=2, label=f'Median: £{latest["consultancy_per_bed"].median():,.0f}')
+ax2.hist(latest_viz['consultancy_per_bed'], bins=30, edgecolor='black', alpha=0.7, color='steelblue')
+ax2.axvline(latest_viz['consultancy_per_bed'].mean(), color='red', linestyle='--',
+           linewidth=2, label=f'Mean: £{latest_viz["consultancy_per_bed"].mean():,.0f}')
+ax2.axvline(latest_viz['consultancy_per_bed'].median(), color='green', linestyle='--',
+           linewidth=2, label=f'Median: £{latest_viz["consultancy_per_bed"].median():,.0f}')
 ax2.set_xlabel('Consultancy per Bed (£)', fontweight='bold', fontsize=12)
 ax2.set_ylabel('Number of Organizations', fontweight='bold', fontsize=12)
 ax2.set_title('Distribution of Consultancy per Bed', fontweight='bold', fontsize=14)
@@ -223,8 +236,8 @@ ax2.grid(alpha=0.3, axis='y')
 
 # 3. Comparison: % of turnover vs per bed
 ax3 = axes[1, 0]
-ax3.scatter(latest['consultancy_pct_turnover'], latest['consultancy_per_bed'],
-           c=latest['beds'], cmap='viridis', s=80, alpha=0.7, edgecolors='black', linewidths=0.5)
+ax3.scatter(latest_viz['consultancy_pct_turnover'], latest_viz['consultancy_per_bed'],
+           c=latest_viz['beds'], cmap='viridis', s=80, alpha=0.7, edgecolors='black', linewidths=0.5)
 cbar = plt.colorbar(ax3.collections[0], ax=ax3)
 cbar.set_label('Number of Beds', fontweight='bold')
 ax3.set_xlabel('Consultancy as % of Turnover', fontweight='bold', fontsize=12)
@@ -234,7 +247,7 @@ ax3.grid(alpha=0.3)
 
 # 4. Sector box plots
 ax4 = axes[1, 1]
-latest.boxplot(column='consultancy_per_bed', by='sector', ax=ax4)
+latest_viz.boxplot(column='consultancy_per_bed', by='sector', ax=ax4)
 ax4.set_xlabel('Sector', fontweight='bold', fontsize=12)
 ax4.set_ylabel('Consultancy per Bed (£)', fontweight='bold', fontsize=12)
 ax4.set_title('Consultancy per Bed - Distribution by Sector', fontweight='bold', fontsize=14)
