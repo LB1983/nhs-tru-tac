@@ -22,14 +22,14 @@ pfi_codes = con.execute("""
     SELECT DISTINCT
         SubCode,
         subcode_label,
-        WorkSheetName,
+        ws_key,
         COUNT(DISTINCT fy) as years_present
     FROM dim_tac_subcodes_ws
     WHERE LOWER(subcode_label) LIKE '%pfi%'
        OR LOWER(subcode_label) LIKE '%private finance%'
        OR LOWER(subcode_label) LIKE '%finance lease%'
        OR LOWER(subcode_label) LIKE '%service concession%'
-    GROUP BY SubCode, subcode_label, WorkSheetName
+    GROUP BY SubCode, subcode_label, ws_key
     ORDER BY SubCode
 """).fetchdf()
 
@@ -44,7 +44,7 @@ if len(pfi_codes) == 0:
         SELECT DISTINCT
             SubCode,
             subcode_label,
-            WorkSheetName
+            ws_key
         FROM dim_tac_subcodes_ws
         WHERE LOWER(subcode_label) LIKE '%lease%'
            OR LOWER(subcode_label) LIKE '%finance cost%'
@@ -61,17 +61,17 @@ if len(pfi_codes) == 0:
 print("\n[2/3] Checking relevant worksheets...")
 
 worksheets = con.execute("""
-    SELECT DISTINCT WorkSheetName
+    SELECT DISTINCT ws_key
     FROM dim_tac_subcodes_ws
-    WHERE LOWER(WorkSheetName) LIKE '%pfi%'
-       OR LOWER(WorkSheetName) LIKE '%capital%'
-       OR LOWER(WorkSheetName) LIKE '%lease%'
-       OR LOWER(WorkSheetName) LIKE '%balance%'
-    ORDER BY WorkSheetName
+    WHERE LOWER(ws_key) LIKE '%pfi%'
+       OR LOWER(ws_key) LIKE '%capital%'
+       OR LOWER(ws_key) LIKE '%lease%'
+       OR LOWER(ws_key) LIKE '%balance%'
+    ORDER BY ws_key
 """).fetchdf()
 
 print(f"\n✓ Relevant worksheets ({len(worksheets)}):")
-for ws in worksheets['WorkSheetName']:
+for ws in worksheets['ws_key']:
     print(f"  - {ws}")
 
 # Get sample data if PFI codes exist
@@ -82,14 +82,15 @@ if len(pfi_codes) > 0:
 
     sample_data = con.execute(f"""
         SELECT
-            org_name_raw,
-            fy,
-            SubCode,
-            WorkSheetName,
-            SUM(amount) as total_amount
-        FROM fact_tru_tac
-        WHERE SubCode IN ('{codes_list}')
-        GROUP BY org_name_raw, fy, SubCode, WorkSheetName
+            f.org_name_raw,
+            f.fy,
+            f.SubCode,
+            d.ws_key,
+            SUM(f.amount) as total_amount
+        FROM fact_tru_tac f
+        JOIN dim_tac_subcodes_ws d ON f.SubCode = d.SubCode
+        WHERE f.SubCode IN ('{codes_list}')
+        GROUP BY f.org_name_raw, f.fy, f.SubCode, d.ws_key
         ORDER BY total_amount DESC
         LIMIT 10
     """).fetchdf()
